@@ -1,0 +1,437 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202106 will be lost/reset.
+# Last config file used to build this data file was /home/bestawe1/tmp/awstats/ssl/awstats.bestaweb.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2695                
+POS_VISITOR 9397                
+POS_DAY 11119               
+POS_DOMAIN 3471                
+POS_LOGIN 3873                
+POS_ROBOT 4028                
+POS_WORMS 4262                
+POS_EMAILSENDER 4393                
+POS_EMAILRECEIVER 4536                
+POS_SESSION 11391               
+POS_SIDER 11597               
+POS_FILETYPES 4671                
+POS_DOWNLOADS 4928                
+POS_OS 4976                
+POS_BROWSER 5171                
+POS_SCREENSIZE 5650                
+POS_UNKNOWNREFERER 5724                
+POS_UNKNOWNREFERERBROWSER 5863                
+POS_ORIGIN 5997                
+POS_SEREFERRALS 6137                
+POS_PAGEREFS 6281                
+POS_SEARCHWORDS 6477                
+POS_KEYWORDS 6629                
+POS_MISC 2358                
+POS_ERRORS 6688                
+POS_CLUSTER 3729                
+POS_SIDER_404 6854                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210624161749 686 187481 9934524019098
+FirstTime 20210616063211
+LastTime 20210624161749
+LastUpdate 20210624203923 686 0 686 0 0
+TotalVisits 49                  
+TotalUnique 40                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 41                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 76 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 55 2842658 4 5 2292
+1 2 2 33868 0 0 0
+2 0 0 0 0 0 0
+3 4 52 2581973 4 5 2292
+4 1 1 33413 0 0 0
+5 1 1 4099 8 9 713380
+6 6 6 147 34 46 4641518
+7 45 333 9759005 18 48 29081
+8 30 214 17108891 17 26 211298
+9 109 537 29478097 107 113 1108762
+10 117 655 9862913 50 63 52676
+11 55 314 33678627 43 48 39252
+12 317 1898 175463528 159 202 2243482
+13 188 1239 114141713 108 120 73786
+14 63 207 2302869 60 60 219815
+15 101 389 11469498 79 83 1207749
+16 153 569 5931694 90 94 90608
+17 18 119 28122 10 10 15520
+18 104 298 16410984 86 93 248568
+19 85 201 3845266 61 64 39095
+20 5 55 8525273 6 7 4250
+21 10 85 4993282 7 9 6781
+22 0 0 0 0 0 0
+23 2 2 9376 2 3 1170
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+ru 1007 6030 390160116
+ir 223 808 28723869
+us 175 321 17778888
+ca 5 58 8521196
+de 3 3 11131
+zz 2 2 98
+kr 1 1 4688
+in 1 1 28421
+gr 1 1 5458
+ua 1 1 4099
+jp 1 1 5580
+ch 1 1 5639
+th 0 4 3256113
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 22 0 20210622212106 0
+unknown 9 192 20210623112312 9
+YandexBot/ 3 5506 20210621183455 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 749 6048253 0 0
+jpg 2718 387265109 0 0
+eot 164 2063423 0 0
+Unknown 711 2589698 0 0
+js 1854 15956142 0 0
+woff 156 7368691 0 0
+html 269 1254645 0 0
+woff2 121 2537784 0 0
+png 490 23421551 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+macosx 2399 668
+winxp 2 2
+win10 4703 721
+Unknown 3 3
+macosx10 2 2
+macosx9 1 1
+macosx12 2 2
+linux 9 9
+win8.1 4 4
+ios_iphone 107 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+chrome84.0.4147.105 1 1
+chrome91.0.4472.77 56 6
+msie6.0 1 1
+chrome52.0.2743.116 2 2
+chrome91.0.4472.106 130 19
+netscape5.0 1 1
+chrome89.0.4389.90 4 0
+chrome87.0.4280.88 1 1
+Unknown 3 3
+firefox68.0 1 1
+chrome91.0.4472.101 2 2
+safari14.0.3 52 4
+safari13.1.2 2326 655
+chrome79.0.3945.130 1 1
+chrome83.0.4103.97 8 8
+firefox50.0 2 2
+msie11.0 4 4
+chrome83.0.4103.106 2 2
+safari14.0.2 55 5
+chrome35.0.2117.157 1 1
+firefox89.0 4579 702
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WhatsApp/2.2119.6_N 20210617122446
+\ 20210623104908
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WhatsApp/2.2119.6_N 20210617122446
+\ 20210623104908
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 240 282
+From1 0 0
+From2 0 0
+From3 1 1
+From4 1180 6949
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://freevpn.space/web-proxy/bestaweb.ir 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+302 103 20881
+206 19 1649704
+500 70 8538144
+419 6 4690
+403 1 590
+503 1 719
+404 798 730949
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 28
+/imagesslide/937518255.jpg 3 -
+/wp-login.php 2 http://bestaweb.ir/wp-login.php
+/images/project/2021/06e86324d761bd00dbde56895d5adb32IMG_6531.jpg%7D 6 https://bestaweb.ir/%D9%BE%D8%B1%D9%88%DA%98%D9%87/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D9%85%D8%AA%D8%A7%D8%B2
+/%7D 7 https://bestaweb.ir/%D9%BE%D8%B1%D9%88%DA%98%D9%87/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D9%85%D8%AA%D8%A7%D8%B2
+/home/bestawe1/public/images/slide/815649573.jpg 3 https://bestaweb.ir/admin/slides
+/product/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86 1 https://bestaweb.ir/
+/undefined 178 https://bestaweb.ir/
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C 3 https://bestaweb.ir/
+/product/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D9%BE%D9%88%DA%86%DB%8C%D9%86%D9%88-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 1 https://bestaweb.ir/
+/sitemapindex.xml 1 -
+/sitemap-index.xml 1 -
+/images/slide/440020224.jpg 1 https://bestaweb.ir/admin/portfos
+/images/slide/2021/f2db77d99f6a9b1b28cbb368190ccaa6slide6.jpg 4 https://bestaweb.ir/admin/slides
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C/%D8%B3%D9%86%DA%AF-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA 1 https://bestaweb.ir/
+/panel 4 -
+/images/slide/937518255.jpg 1 https://bestaweb.ir/admin/portfos
+/home/bestawe1/public/images/slide/341796491.jpg 1 https://bestaweb.ir/admin/portfos
+/wp-admin/install.php 1 -
+/images/project/2021/b9c6e1f7eecdaa4f4429f74496d751c3IMG_6534.jpg%7D 6 https://bestaweb.ir/%D9%BE%D8%B1%D9%88%DA%98%D9%87/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D9%85%D8%AA%D8%A7%D8%B2
+/css/admin/bootstrap-select.min.css 26 https://bestaweb.ir/admin/slides/create
+/image/sslide/937518255.jpg 1 -
+/home/bestawe1/public/imagesslide/815649573.jpg 6 -
+/%D8%B3%D9%88%D8%B1%D8%AA-%D8%B3%D9%86%DA%AF 1 https://bestaweb.ir/
+/admin/menus/4 1 https://bestaweb.ir/admin/menus
+/images/project/2021/61de5b70d221cadc395fcb496590b8ddIMG_6532.jpg%7D 6 https://bestaweb.ir/%D9%BE%D8%B1%D9%88%DA%98%D9%87/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D9%85%D8%AA%D8%A7%D8%B2
+/images/slide/2021%EF%BF%BDd99f6a9b1b28cbb368190ccaa6slide6.jpg 3 https://bestaweb.ir/
+/fonts/fontawesome-webfont.woff2 528 https://bestaweb.ir/css/font-awesome.min.css
+/sitemap.xml 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 41
+5.74.28.45 804 4938 351161061 20210617170455
+151.106.10.36 156 302 17548116 20210622191949
+5.211.211.118 132 451 11231591 20210624124419
+5.74.104.226 111 589 12939403 20210620132126
+5.74.54.157 92 503 26059652 20210623093101
+91.251.92.113 47 121 5486524 20210624154450 20210624152225 /
+89.199.215.90 18 100 3912929 20210622184209
+5.212.138.51 10 21 2596480 20210623112438
+188.229.94.184 5 55 2842658 20210621002708
+142.44.147.104 5 58 8521196 20210616082931
+151.242.195.13 4 52 2581973 20210620035728
+151.242.245.135 4 4 49 20210616063357
+46.51.86.35 3 4 71665 20210624131138
+176.9.8.180 2 2 7032 20210616163034
+34.222.88.136 2 2 79192 20210621134522
+10.10.10.207 2 2 98 20210616063427
+45.140.170.187 1 1 28421 20210617013247
+35.160.193.188 1 1 5458 20210621185339
+18.237.5.67 1 1 5447 20210622192230
+150.249.214.254 1 1 5580 20210624124645
+159.69.158.5 1 1 4697 20210618163006
+212.90.39.68 1 1 4099 20210617054823
+34.222.102.63 1 1 5458 20210621185332
+34.214.39.248 1 1 5443 20210622191424
+150.249.214.253 1 1 5572 20210624124625
+154.51.131.142 1 1 5574 20210624140125
+54.202.57.117 1 1 5458 20210621185619
+34.212.15.80 1 1 5447 20210623185513
+3.135.192.78 1 1 4688 20210617234626
+3.237.198.251 1 1 39539 20210623104908
+18.215.34.102 1 1 33413 20210618042136
+1.2.229.181 0 4 3256113 
+35.162.74.245 1 1 4099 20210616185238
+150.249.214.249 1 1 5572 20210624124638
+91.50.92.161 1 1 4099 20210617090217
+144.126.139.247 1 1 5447 20210624015243
+35.160.154.228 1 1 4688 20210617190348
+129.132.105.28 1 1 5639 20210624161749 20210624161749 /
+14.41.73.150 1 1 4688 20210617235615
+95.179.187.27 1 1 5458 20210620210500
+39.111.208.132 1 1 5580 20210624124632
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20210616 190 1202 56842853 8
+20210617 683 3972 318404225 9
+20210618 2 2 38110 2
+20210620 116 642 15526834 4
+20210621 10 60 2938224 5
+20210622 197 632 27981417 7
+20210623 34 139 9944889 4
+20210624 189 583 16828744 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 4
+2mn-5mn 2
+0s-30s 29
+30s-2mn 5
+5mn-15mn 1
+1h+ 3
+15mn-30mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 68
+/ 269 1254645 46 28
+/fonts/IRANSansWeb(FaNum).eot 125 1576251 0 3
+/admin/products 91 425376 1 0
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C 69 215716 0 0
+/fonts/fontawesome-webfont.woff 60 4654110 0 5
+/fonts/IRANSansWeb(FaNum).woff 60 2081683 0 0
+/css/admin/fonts/IRANSansWeb(FaNum).eot 39 487172 0 2
+/admin/products/create 38 130899 0 0
+/%D8%B3%D9%86%DA%AF-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C 38 108302 0 0
+/css/admin/fonts/Simple-Line-Icons.woff2 36 541152 0 0
+/css/admin/fonts/fontawesome-webfont.woff2 36 1199232 0 0
+/css/admin/fonts/MaterialIcons-Regular.woff2 36 797400 0 0
+/css/admin/fonts/IRANSansWeb(FaNum).woff 36 632898 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86 33 117206 0 2
+/admin/slides/create 26 86436 0 0
+/admin/product/action 25 346188 0 0
+/login 25 30145 0 0
+/admin/panel 24 85061 0 0
+/admin/slides 23 81359 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2%D9%86%D8%A7 22 78488 1 1
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C 21 64064 0 0
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C/%D8%B3%D9%86%DA%AF-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA 19 60915 0 0
+/%D8%B3%D9%86%DA%AF-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C/%D8%B3%D9%86%DA%AF-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA 18 49658 0 0
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D9%85%D8%AA%D8%A7%D8%B2 16 50032 0 0
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87 16 39470 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D9%84%D8%A7%DB%8C%D8%AA-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 1 3679 0 0
+/admin/products/13/edit 1 3181 0 0
+/category 3 7146 0 0
+/admin/products/20/edit 5 17119 0 0
+/admin/projects/create 11 35843 0 0
+/admin/products/23/edit 5 16562 0 0
+/admin/products/16/edit 4 14339 0 0
+/admin/products/19/edit 9 31831 0 0
+/admin/slides/14/edit 1 3125 0 0
+/admin/menus/create 2 5738 0 0
+/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%A7 11 35719 0 0
+/admin/products/15/edit 7 24585 0 0
+/admin/products/28 1 560 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1%DA%A9 1 3684 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-B 8 26761 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/dsdf 2 6033 0 0
+/admin/projects/10/edit 3 9550 0 0
+/admin/levelAdmins 1 3198 0 0
+/admin/products/18/edit 7 24704 0 0
+/%D8%B3%D9%88%D8%B1%D8%AA-%D8%B3%D9%86%DA%AF 14 50723 0 0
+/%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7%D9%85%D8%A7 9 24684 0 0
+/admin/ajax_upload/action 4 116 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 2 7497 0 0
+/admin/projects 15 50582 0 0
+/admin/products/17/edit 11 39189 0 2
+/admin/project/action 4 38280 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%A9%D9%84%DA%A9%D8%AA%D9%87-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7 4 14338 0 0
+/_ignition/health-check 6 294 1 2
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87/ewrewrwr 1 3180 0 0
+/admin/products/19 2 0 0 0
+/admin/product/option 5 355 0 0
+/admin/products/28/edit 1 3513 0 0
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87/sdadasdasd 1 2972 0 0
+/admin/menus 6 21692 0 0
+/%D8%B3%D9%86%DA%AF-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C 9 23777 0 0
+/undefined 1 0 0 0
+/about 1 2933 0 1
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1%DA%A9-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7 5 17717 0 0
+/admin/slide/action 8 232 0 0
+/project 5 11436 0 0
+/fonts/fontawesome-webfont.woff2 13 0 0 0
+/admin/portfos 5 17792 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/asdasdasdsa 5 15724 0 1
+END_SIDER

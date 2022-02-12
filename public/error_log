@@ -1,0 +1,4 @@
+[24-Jun-2021 13:08:50 UTC] PHP Fatal error:  Trait 'Cviebrock\EloquentSluggable\Sluggable' not found in /home/bestawe1/app/Project.php on line 8
+[24-Jun-2021 13:09:22 UTC] PHP Fatal error:  Trait 'Cviebrock\EloquentSluggable\Sluggable' not found in /home/bestawe1/app/Project.php on line 8
+[24-Jun-2021 13:11:22 UTC] PHP Fatal error:  Trait 'Cviebrock\EloquentSluggable\Sluggable' not found in /home/bestawe1/app/Project.php on line 8
+[24-Jun-2021 13:11:28 UTC] PHP Fatal error:  Trait 'Cviebrock\EloquentSluggable\Sluggable' not found in /home/bestawe1/app/Product.php on line 8

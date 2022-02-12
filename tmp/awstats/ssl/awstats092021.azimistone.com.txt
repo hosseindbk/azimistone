@@ -1,0 +1,1774 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202109 will be lost/reset.
+# Last config file used to build this data file was /home/azimisto/tmp/awstats/ssl/awstats.azimistone.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2698                
+POS_VISITOR 48288               
+POS_DAY 74510               
+POS_DOMAIN 3727                
+POS_LOGIN 4479                
+POS_ROBOT 4634                
+POS_WORMS 6412                
+POS_EMAILSENDER 6543                
+POS_EMAILRECEIVER 6686                
+POS_SESSION 75428               
+POS_SIDER 75639               
+POS_FILETYPES 6821                
+POS_DOWNLOADS 7138                
+POS_OS 7206                
+POS_BROWSER 7756                
+POS_SCREENSIZE 11714               
+POS_UNKNOWNREFERER 11788               
+POS_UNKNOWNREFERERBROWSER 12641               
+POS_ORIGIN 13128               
+POS_SEREFERRALS 13277               
+POS_PAGEREFS 13546               
+POS_SEARCHWORDS 13969               
+POS_KEYWORDS 14128               
+POS_MISC 2361                
+POS_ERRORS 14194               
+POS_CLUSTER 4335                
+POS_SIDER_404 14357               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211001000725 139 26869 10729799731057
+FirstTime 20210901000009
+LastTime 20210930204558
+LastUpdate 20211001162226 139 0 138 0 0
+TotalVisits 682                 
+TotalUnique 546                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 703                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 53 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 105 1217 92816547 782 1226 19067866
+1 72 338 17723710 1016 5528 53839527
+2 140 768 47451669 554 1665 28220004
+3 61 148 9338231 678 1877 24207773
+4 45 45 840563 441 500 4012008
+5 54 371 22384150 423 559 4682818
+6 69 289 17755397 585 766 7196244
+7 76 235 7132055 622 1079 18959710
+8 71 475 34129948 412 527 4574211
+9 102 1330 100452038 499 922 22645407
+10 159 1683 133770557 508 563 3246039
+11 185 2008 163767055 908 1760 32338518
+12 131 1741 138469258 642 772 10884348
+13 115 1312 88875007 607 1019 14404128
+14 187 2480 188094751 865 1505 45151382
+15 143 1954 143698788 583 864 15032810
+16 159 1693 131175013 739 5230 36869276
+17 116 1557 125880289 855 5276 43892269
+18 168 1283 98999377 1253 1507 17552332
+19 114 1038 83213838 547 925 5460538
+20 126 1391 119507779 788 1641 31093332
+21 117 1144 84752673 732 3449 34451076
+22 101 729 51213039 745 1614 17289744
+23 169 1628 119559201 810 1305 32075424
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 32
+ir 1629 17285 1306785185
+us 410 2229 147383139
+ru 200 1535 130542212
+de 167 1698 132627025
+se 104 104 2275428
+gb 80 1371 112570259
+cn 66 735 22066551
+in 23 257 16851812
+md 12 123 19798666
+fr 11 173 15961804
+ca 11 32 394505
+nl 9 195 19242918
+ro 9 235 23814873
+dk 7 229 11704864
+il 7 13 210143
+ie 6 120 10398104
+au 4 5 152909
+co 3 85 7982689
+ao 3 84 7960101
+bb 3 84 7955488
+fi 3 84 7955488
+ua 3 3 27260
+sk 3 84 7960101
+vn 3 84 7960101
+id 2 2 10655
+it 1 1 106563
+iq 0 1 51285
+at 1 1 106563
+gr 1 1 10655
+cl 1 1 10379
+ke 1 1 10655
+pt 2 2 112417
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 41
+checker 25207 280707703 20210930235030 117
+Go\-http\-client/ 1704 18203832 20210930204559 0
+MJ12bot/ 1388 16802246 20210930124028 195
+baidu 1035 71527206 20210928021807 0
+Googlebot/ 719 4528463 20210930233335 129
+YandexBot/ 365 2467334 20210930204521 114
+robot 303 13102335 20210930173448 35
+bingbot/ 266 8693783 20210930232132 77
+Sogou[\x20]web[\x20]spider/ 229 2417533 20210930163003 2
+SemrushBot/ 202 570698 20210930235058 94
+bot[\s_+:,\.\;\/\\-] 170 3031535 20210928211932 11
+Googlebot\-Image/ 168 18730761 20210930233335 0
+AdsBot\-Google[\x20]\( 125 1437407 20210927231343 0
+AhrefsBot/ 118 1234768 20210930042059 23
+YandexImages/ 100 13739475 20210930073058 0
+Dalvik/ 90 8035964 20210918234139 0
+facebookexternalhit/ 88 8113847 20210919174614 2
+crawl 84 7960101 20210906202858 0
+CCBot/ 67 330454 20210921165221 6
+MegaIndex\.ru/ 61 319431 20210903070104 1
+SeznamBot/ 45 1336307 20210930083016 23
+bingpreview 37 1863865 20210928212604 0
+unknown 35 2380 20210930100841 35
+DotBot/ 26 109039 20210930050833 25
+Apache\-HttpClient/ 20 213380 20210918040514 0
+MojeekBot/ 2 10723 20210908221423 1
+DuckDuckGo\-Favicons\-Bot/ 2 33007 20210902063507 0
+discover 1 10658 20210927173100 0
+MojeekBot 4 21446 20210924130125 2
+BLEXBot/ 2 136 20210910191409 2
+oBot/ 14 952 20210909002041 14
+SurdotlyBot/ 4 32047 20210923183611 1
+nutch 3 204 20210930175236 3
+curl 1 106563 20210923133805 0
+no_user_agent 7 257160 20210930203959 2
+Applebot/ 14 22140 20210928053528 12
+yandex 3 67764 20210929061250 0
+Barkrowler 4 10859 20210928095929 3
+(firefox/)([0-9]\.|[0-1][0]\.) 2 117218 20210923150321 0
+CFNetwork 2 22588 20210907140721 0
+survey 2 214484 20210930184454 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+jpg 16782 1783923012 0 0
+Unknown 620 4470922 0 0
+woff2 12 287408 0 0
+woff 527 31303542 0 0
+js 2286 22797530 0 0
+eot 23 917055 0 0
+png 1519 98301729 0 0
+html 1600 25261365 0 0
+php 2 215226 0 0
+ttf 1 80599 0 0
+css 3189 16805743 0 0
+jpeg 296 36636666 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 0 2 136
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 30
+androidkitkat 1 0
+macosx10 15 15
+linux 1091 141
+macosx14 41 10
+win8 3 3
+androidmarshmallow 86 3
+macosx8 2 2
+androidjellybean 56 6
+winxp 11 7
+macosx15 168 28
+ios_iphone 8029 341
+macosx13 269 40
+ios_ipad 22 22
+linuxandroid 3731 178
+macosx 340 139
+android10 1191 69
+winlong 3 1
+win10 5830 548
+macosx11 15 12
+macosx5 1 0
+androidnougat 112 8
+win8.1 656 57
+macosx9 11 11
+Unknown 983 890
+android 1626 82
+win7 1423 105
+androidoreo 454 24
+linuxubuntu 8 8
+androidpie 678 34
+androidlollipop 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 181
+chrome49.0.2623.75 117 18
+safari9.0.2 6 3
+chrome77.0.3835.0 19 3
+iphone 3395 116
+chrome79.0.3945.130 4 3
+firefox91.0 775 39
+ibrowse 1 0
+firefox86.0 4 1
+chrome81.0.4044.92 2 0
+chrome80.0.3987.87 14 1
+chrome76.0.3809.100 5 0
+chrome76.0.3809.71 168 6
+chrome92.0.4515.131 474 23
+firefox72.0 10 8
+chrome86.0.4240.198 1 0
+mozilla 103 22
+chrome67.0.3396.99 11 11
+opera11.50 4 0
+chrome44.0.2403.133 2 0
+chrome89.0.4472.114 1 1
+firefox87.0 1 1
+chrome50.0.2661.102 6 6
+safari13.1 49 3
+safari14.1.1 278 26
+chrome35.0.1916.47 3 3
+firefox 1 1
+msie11 84 3
+chrome83.0.4103.101 69 3
+chrome63.0.3239.111 84 3
+chrome52.0.2743.116 8 8
+opera11.00 8 2
+chrome87.0.4280.66 27 4
+chrome89.0.4389.128 15 4
+safari14.0 85 3
+chrome74.0.3729.169 2 2
+firefox52.0 5 5
+safari10.0 2 2
+chrome81.0.4044.138 213 13
+chrome39.0.2171.95 2 2
+chrome83.0.4103.61 78 4
+chrome78.0.3904.62 7 7
+chrome91.0.4472.77 25 4
+chrome80.0.3987.149 3 3
+chrome88.0.4324.93 50 4
+chrome80.0.3987.122 1 0
+opera10.00 5 2
+chrome80.0.3987.132 5 5
+chrome90.0.4430.72 14 5
+chrome86.0.4240.111 2 1
+chrome79.0.3945.79 30 30
+chrome60.0.3112.101 52 4
+chrome67.0.3396.87 83 2
+safari14.0.1 180 9
+chrome89.0.4389.105 174 7
+chrome87.0.4280.88 1 0
+firefox83.0 4 2
+chrome86.0.4472.114 1 1
+chrome88.0.4324.150 84 3
+chrome81.0.4044.129 2 0
+chrome88.0.4324.181 144 7
+chrome71.0.3578.83 84 3
+chrome81.0.4044.122 4 3
+edge12 6 3
+safari13.1.1 2 0
+chrome92.0.4515.166 355 16
+chrome78.0.3904.87 20 3
+chrome60.0.3112.90 13 13
+safari9.0 1 1
+firefox85.0 3 1
+chrome93.0.4577.58 84 3
+chrome92.0.4515.115 331 11
+chrome88.0.4324.190 3 2
+firefox79.0 2 0
+chrome40.0.2214.115 8 1
+chrome91.0.4472.114 29 12
+firefox84.0 60 59
+chrome78.0.3904.108 89 8
+chrome89.0.4389.90 42 41
+chrome70.0.3538.110 84 3
+opera12.12 1 1
+firefox61.0 11 11
+firefox80.0 2 0
+firefox92.0 752 55
+chrome22.0.1207.1 5 5
+opera64.2.3282.60128 4 0
+chrome40.0.2214.109 1 0
+chrome90.0.4430.93 1 1
+firefox59.0 1 1
+chrome84.0.4147.89 84 3
+chrome85.0.4183.83 4 3
+chrome65.0.3325.146 5 5
+chrome79.0.3945.74 10 4
+chrome88.0.4324.182 3 2
+chrome87.0.4472.114 3 0
+msie9.0 8 0
+chrome26.0.1410.65 2 2
+chrome68.0.3427.1 154 2
+chrome93.0.4577.63 2551 179
+opera52.0.2871.99 2 2
+chrome86.0.4240.75 84 3
+safari11.1.2 11 11
+chrome93.0.4577.62 1127 58
+chrome92.0.4515.159 2359 194
+chrome40.0.2214.93 5 5
+chrome38.0.2125.102 85 3
+chrome71.0.3578.98 5 5
+chrome73.0.3683.86 363 0
+chrome88.0.4472.114 2 1
+chrome94.0.4606.61 208 9
+firefox81.0 4 3
+chrome41.0.2228.0 6 6
+opera12.16 1 1
+chrome89.0.4389.114 1 0
+firefox65.0 1 1
+safari11.0 95 38
+Unknown 882 870
+chrome80.0.3987.106 2 1
+msie11.0 150 14
+firefox78.0 118 13
+chrome47.0.2526.106 3 3
+chrome83.0.4103.116 1 1
+firefox73.0 3 0
+chrome90.0.4430.210 698 36
+safari13.1.2 426 15
+chrome37.0.2062.124 1 1
+chrome84.0.4147.105 10 8
+chrome85.0.4183.102 20 4
+firefox73.0.1 1 1
+chrome59.0.3071.115 1 1
+safari14.0.2 159 7
+safari12.1.2 165 9
+chrome93.0.4577.82 2581 150
+chrome83.0.4103.97 78 63
+firefox75.0 3 0
+chrome87.0.4280.101 57 4
+chrome45.0.2454.94 1 1
+chrome88.0.4324.146 42 41
+firefox74.0 5 1
+chrome62.0.3202.94 1 1
+opera11.11 7 5
+chrome90.0.4430.82 99 8
+firefox57.0 2 2
+opera10.10 6 2
+chrome79.0.3945.117 1 1
+chrome38.0.2125.111 8 8
+chrome71.0.3578.99 56 6
+chrome83.0.4103.106 90 4
+chrome80.0.3987.116 1 0
+safari14.1.2 1892 84
+chrome81.0.4044.113 3 0
+safari5.0.4 4 1
+chrome64.0.3282.0 2 2
+firefox48.0 2 2
+netscape5.0 4 4
+chrome70.0.3538.80 3 2
+safari13.0.5 84 3
+chrome90.0.4430.212 85 4
+chrome85.0.4183.121 4 4
+chrome91.0.4472.164 90 5
+msie7.0 1 1
+safari14.0.3 542 23
+chrome69.0.3497.100 1 1
+chrome87.0.4280.141 578 26
+opera10.54 10 3
+firefox76.0 6 3
+chrome92.0.4515.107 84 3
+chrome55.0.2883.95 1 1
+chrome90.0.4472.114 1 1
+chrome72.0.3626.119 2 2
+firefox82.0 2 0
+firefox40.0 2 2
+chrome84.0.4147.125 2 0
+chrome91.0.4472.120 241 11
+chrome5.0.307.7 1 0
+chrome79.0.3945.88 2 2
+chrome42.0.2311.90 3 3
+safari 923 46
+chrome84.0.4147.135 1 0
+chrome79.0.3945.147 84 3
+chrome72.0.3626.121 85 4
+chrome91.0.4472.101 250 12
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 18
+WhatsApp/2.21.141.1_i 20210921171740
+cortex/1.0 20210910094125
+Mozilla/5.0 20210908154416
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20210908001825
+WhatsApp/2.2134.10_N 20210912203517
+Go-http-client/1.1 20210909163006
+Go-http-client/2.0 20210906132948
+WhatsApp/2.21.13.28_A 20210904132113
+\ 20210928233331
+ALittle_Client 20210923083713
+adreview/1.0 20210918234202
+Mozilla/5.0_(compatible;_Google-Apps-Script) 20210907173356
+GRequests/0.10 20210919185057
+python-requests/2.26.0 20210913143132
+Mozilla/5.0_(compatible;_Dataprovider.com) 20210910183736
+KOCMOHABT_(https://kozmonavt.ml/)_Mozilla/5.0_(Web_Explorer) 20210916134817
+Mozilla/5.0_(compatible;_evc-batch/2.0) 20210923061525
+got_(https://github.com/sindresorhus/got) 20210924041247
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+got_(https://github.com/sindresorhus/got) 20210924041247
+python-requests/2.26.0 20210913143132
+GRequests/0.10 20210919185057
+WhatsApp/2.21.13.28_A 20210904132113
+ALittle_Client 20210923083713
+\ 20210928233331
+adreview/1.0 20210918234202
+Go-http-client/2.0 20210906132948
+Go-http-client/1.1 20210909163006
+WhatsApp/2.2134.10_N 20210912203517
+cortex/1.0 20210910094125
+WhatsApp/2.21.141.1_i 20210921171740
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 593 975
+From1 0 0
+From2 260 345
+From3 101 156
+From4 1831 25381
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 7
+www_google_com 245 326
+google_com 0 2
+www_google_com_hk 3 3
+www_google_co_in 0 2
+bing 4 4
+www_google_de 1 1
+www_bing_com 7 7
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+https://l.instagram.com 69 69
+https://www.facebook.com 22 22
+https://sucuri.net 3 58
+http://5.144.130.50 2 2
+https://webtechsurvey.com/website/azimistone.com 1 1
+http://zigorock.ir 1 1
+http://zwjahk.amatocanizalez.net 1 1
+http://swbul.gcmx.net 1 1
+http://faqrfl.qxnr.net 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+bing 4
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+bing 4
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+404 8127 4884619
+403 20 13980
+206 970 22874383
+302 2 399
+301 110 77770
+500 75 12887837
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 385
+/img/apple_icons_72x72.png 2 -
+//wp1/wp-includes/wlwmanifest.xml 2 -
+/azimistone.com:443/services/47/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%98%C2%B2%C3%99%C2%86%C3%98%C2%A7 8 -
+/azimistone.com:443/services/46/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%A9%C3%83%C2%83%C3%8B% 18 -
+/magento_version 1 -
+/blogsingle/10/%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%98%C3%82%C2%AA%C3%83%C2%99%C3%82%C2%81%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%98%C3%82%C2%AF%C3%83%C2%99%C3%82%C2%87-%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%98%C3%82%C2%B2-%C3%83%C2%98%C3%82%C2%B 3 -
+/azimistone.com:443/blogsingle/10/%C3%98%C2%A7%C3%98%C2%B3%C3%98%C2%AA%C3%99%C2%81%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%87-%C3%98%C2%A7%C3%98%C2%B2-%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%99%C2%87%C3%98%C2%A7%C3%9B%C2%8C-%C3%99%C2%85%C3%98%C2%B1%C3%99%C2%85%C 8 -
+/services/43/%C3%98%C2%B3%C3%99%E2%80%A0%C3%9A%C2%AF-%C3%9A%C2%A9%C3%98%C2%A7%C3%99%C2%BE%C3%99%CB%86%C3%9A%E2%80%A0%C3%9B%C5%92%C3%99%E2%80%A0%C3%99%CB%86 3 -
+/img/upload/dehbid-anbar-1.jpg 3 -
+/blogsingle/11/dehbid-stone 1 -
+/404.shtml 2790 http://azimistone.com/.well-known/acme-challenge/Cy7SkKqKgYk6Azw5yVKLgUfDCYvk77TUcn7WwM70Bm8
+/azimistone.com:443/services/17 2 -
+/img/uploads/Darajeh1Code6.jpg 1 -
+/en/projects/12 2 -
+/en/projects/15 6 -
+/%C3%99%C2%85%C3%98%C2%AD%C3%98%C2%B5%C3%99%C2%88%C3%99%C2%84%C3%98%C2%A7%C3%98%C2%AA/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%A9%C3%99%C2%84%C3%9A%C2%A9%C3%98%C2%AA%C3%99%C2%87-%C3%98%C2%A7%C3%9B%C2%8C%C3%98%C2%AA%C3%98%C2%A7%C3%99%C2%84%C3%9B%C2%8C 23 -
+/projectSingle/20/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87 10 -
+/en/projects/21 1 -
+/en/projects/28 1 -
+/old-index.php 1 -
+/projects/4 1 -
+/apple-touch-icon.png 3 -
+/services/17/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%AF%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C 10 -
+/2.php 1 https://azimistone.com/2.php
+/img/upload/a-(5).jpg 2 -
+/en/ProductShow/31/Persian-Negro 1 -
+/%C3%99%C2%85%C3%98%C2%AD%C3%98%C2%B5%C3%99%C2%88%C3%99%C2%84%C3%98%C2%A7%C3%98%C2%AA/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%A9%C3%98%C2%A7%C3%99%C2%84%C3%98%C2%A7%C3%9A%C2%A9%C3%98%C2%A7%C3%98%C2%AA%C3%98%C2%A7 24 -
+/%C3%99%C2%85%C3%98%C2%AD%C3%98%C2%B5%C3%99%C2%88%C3%99%C2%84%C3%98%C2%A7%C3%98%C2%AA/%C3%98%C2%AF%C3%99%C2%87%C3%98%C2%A8%C3%9B%C2%8C%C3%98%C2%AF-%C3%98%C2%B4%C3%98%C2%A7%C3%9B%C2%8C%C3%98%C2%A7%C3%99%C2%86-%C3%9A%C2%A9%C3%98%C2%AF-A 21 -
+/en/img/apple_icons_57x57.png 2 -
+//website/wp-includes/wlwmanifest.xml 2 -
+/img/upload/a-(24).jpg 2 -
+/azimistone.com:443/blogSingle/6/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%C2%87%C3%98%C2%A8%C3%9B%C2%8C%C3%98%C2%AF-%C3%9A%C2%86%C3%9B%C2%8C%C3%98%C2%B3%C3%98%C2%AA 9 -
+/services/43/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%A9%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C 36 -
+/en/ProductShow/33/Honey-Nest 2 -
+/projectSingle/21/%C3%99%C2%BE%C3%98%C2%B1%C3%99%CB%86%C3%9A%CB%9C%C3%99%E2%80%A1-%C3%99%E2%80%A1%C3%98%C2%A7%C3%9B%C5%92-%C3%98%C2%B3%C3%99%E2%80%A0%C3%9A%C2%AF-%C3%98%C2%A7%C3%99%E2%80%A6%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%CB%86%C3%98% 1 -
+//web/wp-includes/wlwmanifest.xml 2 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%98%C2%AA%C3%98%C2%A7%C3%99%C2%84%C3%98%C2%A7%C3%98%C2%B1 21 -
+/azimistone.com:443/blogsingle/9 1 -
+/_css.php 1 https://azimistone.com/_css.php
+/img/upload/DSC_0159.jpg 2 -
+/img/upload/a-.jpg 1 -
+/apple-touch-icon-176x176-precomposed.png 2 -
+/wp-admin/css 4 binance.com
+/img/upload/slide2.jpg 2 -
+/en/projects/22 1 -
+/eghamat/39 6 -
+/en/projects/25 1 -
+/emergency.php 1 -
+/services/44/%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 21 -
+/azimistone.com:443/services/44/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%A7%C3%83%C2%83%C3%A2% 8 -
+/%C3%98%C2%AF%C3%98%C2%B1%C3%98%C2%A8%C3%98%C2%A7%C3%98%C2%B1%C3%99%C2%87-%C3%99%C2%85%C3%98%C2%A7 23 -
+/page/3/%C3%83%C2%98%C3%82%C2%AF%C3%83%C2%98%C3%82%C2%B1%C3%83%C2%98%C3%82%C2%A8%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%98%C3%82%C2%B1%C3%83%C2%99%C3%82%C2%87-%C3%83%C2%99%C3%82%C2%85%C3%83%C2%98%C3%82%C2%A7 8 -
+/blog/search/2 4 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%98%C2%B3%C3%98%C2%B9%C3%98%C2%A7%C3%98%C2%AF%C3%98%C2%AA-%C3%98%C2%A2%C3%98%C2%A8%C3%98%C2%A7%C3%98%C2%AF 21 -
+/faq 4 -
+/en/productsBrandList/2/Code-1 1 -
+/services/44/%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%82%C2%86%C3%83%C2%9A%C3%82%C2%AF-%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%99%C3%82%C2%85%C3%83%C2%99%C3%82%C2%BE%C3%83%C2%98%C3%82%C2%B1%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%98%C3%82%C2%AF%C3%83%C2%99%C3%82%C2%88%C 9 -
+/apple-touch-icon-72x72-precomposed.png 3 -
+/services/47/%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%82%C2%86%C3%83%C2%9A%C3%82%C2%AF-%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%98%C3%82%C2%B2%C3%83%C2%99%C3%82%C2%86%C3%83%C2%98%C3%82%C2%A7 9 -
+/en/img/uploads/WhitePoint.jpg 3 -
+/projects.asp 10 -
+/en/ProductShow/29/Persian-Light-Emperador 2 -
+/services/46/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%A9%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C 9 -
+/services/45/%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%82%C2%86%C3%83%C2%9A%C3%82%C2%AF-%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%99%C3%82%C2%85%C3%83%C2%99%C3%82%C2%BE%C3%83%C2%98%C3%82%C2%B1%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%98%C3%82%C2%AF%C3%83%C2%99%C3%82%C2%88%C 9 -
+//2018/wp-includes/wlwmanifest.xml 2 -
+/wp-class.php 1 -
+/en/img/uploads/DSC02026.jpg 1 -
+//blog/wp-includes/wlwmanifest.xml 2 -
+/img/upload/darksmall.jpg 1 -
+//productsBrandList.asp 18 -
+/wordpress 1 -
+/services/45/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%A7%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C 9 -
+/azimistone.com:443/blogsingle/7 3 -
+/en/ProductBrandShow/5/Super-Dehbid-Stone 7 -
+/en/blogshow/7 2 -
+/page/3/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%A7 11 -
+/blog/cata/4/2/%D8%B3%D9%86%DA%AF%D9%87%D8%A7%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C 9 -
+/en/about 36 -
+/fonts/fontawesome-webfont.woff2 630 https://azimistone.com/css/font-awesome.min.css
+/BrandList/17/24/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%C2%87%C3%98%C2%A8%C3%9B%C2%8C%C3%98%C2%AF 17 -
+//wp/wp-includes/wlwmanifest.xml 2 -
+/services/47/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%98%C2%B2%C3%99%C2%86%C3%98%C2%A7 27 -
+/en/projects/30 1 -
+/%C3%99%C2%85%C3%98%C2%AD%C3%98%C2%B5%C3%99%C2%88%C3%99%C2%84%C3%98%C2%A7%C3%98%C2%AA/%C3%99%C2%84%C3%98%C2%A7%C3%9B%C2%8C%C3%98%C2%AA-%C3%98%C2%A7%C3%99%C2%85%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%88%C3%98%C2%B1-%C3%98%C2%AA%C3%98%C2%B1 23 -
+/projects 6 -
+/azimistone.com:443/services/46/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%A9%C3%98%C2%A7%C3%99%C2%84%C3%98%C2%A7%C3%9A%C2%A9%C3%98%C2%A7%C3%98%C2%AA%C3%98%C2%A7-%C3%98%C2%A7%C3%9B%C2%8C%C3%98%C2%AA%C3%98%C2%A7%C3%99%C2%84%C3%9B%C2%8C%C3%98%C2%A7 8 -
+/%C3%99%C2%85%C3%98%C2%AD%C3%98%C2%B5%C3%99%C2%88%C3%99%C2%84%C3%98%C2%A7%C3%98%C2%AA/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%86%C3%9B%C2%8C%C3%99%C2%86%C3%9B%C2%8C-%C3%98%C2%A7%C3%98%C2%B2%C3%99%C2%86%C3%98%C2%A7-%C3%9A%C2%A9%C3%98%C2%AF-A 21 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87%20%C3%9A%C2%A9%C3%99%C2%87%C3%9A%C2%A9%C3%98%C2%B4%C3%98%C2%A7%C3%99%C2%86 14 -
+/img/upload/s10.jpg 1 -
+/img/upload/Em-P1.jpg 1 -
+/downloader 1 -
+/blogsingle/10/%C3%98%C2%A7%C3%98%C2%B3%C3%98%C2%AA%C3%99%C2%81%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%87-%C3%98%C2%A7%C3%98%C2%B2-%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%99%C2%87%C3%98%C2%A7%C3%9B%C2%8C-%C3%99%C2%85%C3%98%C2%B1%C3%99%C2%85%C3%98%C2%B1%C3%9B%C2 17 -
+/blog/cata/4/1/%D8%B3%D9%86%DA%AF%D9%87%D8%A7%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C 11 -
+/undefined 350 https://azimistone.com/
+/admin 1 http://azimistone.com/admin
+/projectSingle/1 6 -
+/en/projects/23 1 -
+/roots.php 1 https://azimistone.com/roots.php
+//shop/wp-includes/wlwmanifest.xml 2 -
+/services/42/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%9E%C3%83%C2%83%C3%8B%C2%9C%C 36 -
+//site/wp-includes/wlwmanifest.xml 2 -
+/%C3%99%C2%85%C3%98%C2%AD%C3%98%C2%B5%C3%99%C2%88%C3%99%C2%84%C3%98%C2%A7%C3%98%C2%AA/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%C2%87%C3%98%C2%A8%C3%9B%C2%8C%C3%98%C2%AF-%C3%98%C2%B4%C3%98%C2%A7%C3%9B%C2%8C%C3%98%C2%A7%C3%99%C2%86-%C3%9A%C2%A 383 -
+/license.txt 1 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%85%C3%9B%C2%8C%C3%99%C2%86%C3%98%C2%A7 14 -
+/en/ProductBrandShow/6/Super-Special-Dehbid-Stone 2 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%85%C3%98%C2%A8%C3%9B%C2%8C%C3%99%C2%86 14 -
+/img/upload/a-(15).jpg 1 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%98%C2%B3%C3%98%C2%AD%C3%98%C2%B1 14 -
+/img/upload/dehbid2.jpg 2 -
+/tel:+989127125646 1 -
+/en/projects/3 1 -
+/blogsingle/6/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%C2%87%C3%98%C2%A8%C3%9B%C2%8C%C3%98%C2%AF-%C3%9A%C2%86%C3%9B%C2%8C%C3%98%C2%B3%C3%98%C2%AA 24 -
+/en/img/uploads/LighEm.jpg 3 -
+/wp/wp-login.php 10 -
+/azimistone.com:443/services/42/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%9E%C3%83% 9 -
+////about.php 1 -
+/wordpress/wp-includes/wp-class.php 1 -
+/services/42/%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 16 -
+/services/46/%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%82%C2%86%C3%83%C2%9A%C3%82%C2%AF-%C3%83%C2%9A%C3%82%C2%A9%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%99%C3%82%C2%84%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%9A%C3%82%C2%A9%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%98%C3%82%C2%AA%C 9 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%98%C2%B4%C3%99%C2%87%C3%98%C2%B1%C3%9A%C2%A9-%C3%98%C2%BA%C3%98%C2%B1%C3%98%C2%A8 20 -
+/.well-known/apple-app-site-association 2 -
+/about.asp 1 -
+/projectSingle/22/%C3%83%C2%99%C3%82%C2%BE%C3%83%C2%98%C3%82%C2%B1%C3%83%C2%99%C3%82%C2%88%C3%83%C2%9A%C3%82%C2%98%C3%83%C2%99%C3%82%C2%87-%C3%83%C2%99%C3%82%C2%87%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%9B%C3%82%C2%8C-%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%82%C 9 -
+/%C3%99%C2%85%C3%98%C2%AD%C3%98%C2%B5%C3%99%C2%88%C3%99%C2%84%C3%98%C2%A7%C3%98%C2%AA/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%86%C3%9B%C2%8C%C3%99%C2%86%C3%9B%C2%8C-%C3%98%C2%A7%C3%98%C2%B2%C3%99%C2%86%C3%98%C2%A7 16 -
+/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%9B%C2%8C%C3%98%C2%B1%C3%98%C2%A7%C3%99%C2%86%C3%9B%C2%8C/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%99%C2%85%C3%98%C2%B1%C3%99%C2%85%C3%98%C2%B1%C3%9B%C2%8C%C3%98%C2%AA 23 -
+/services/45/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%99%C2%85%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%88%C3%98%C2%B1-%C3%98%C2%A7%C3%98%C2%B3%C3%99%C2%BE%C3%98%C2%A7%C3%99%C2%86%C3%9B%C2%8C%C3%98%C2%A7 27 -
+/azimistone.com:443/blogSingle/6/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%AF%C3%83%C2%83%C3%A2 8 -
+/img/apple_icons_57x57.png 2 -
+/services/17 2 -
+/img/upload/slide1(1).jpg 1 -
+/services/44/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%A7%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C 9 -
+/img/uploads/DSC_0457(1).jpg 1 -
+/img/upload/Em-P2.jpg 1 -
+/BrandList.asp 55 -
+/services/44/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%99%C2%85%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%88%C3%98%C2%B1-%C3%98%C2%AA%C3%98%C2%B1%C3%9A%C2%A9%C3%9B%C2%8C%C3%99%C2%87 26 -
+/wp-login.php 48 -
+/azimistone.com:443/blogSingle/7 1 -
+/blogshow.asp 78 -
+/img/upload/DSC_0036.jpg 3 -
+/apple-touch-icon-120x120-precomposed.png 4 -
+/templates/index.html 1 -
+/azimistone.com:443/services/42/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%99%C2%84%C3%98%C2%AA%C3%99%C2%87-%C3%98%C2%AA%C3%98%C2%B1%C3%9A%C2%A9%C3%9B%C2%8C%C3%99%C2%87 7 -
+/img/upload/%C3%98%C2%AF%C3%99%E2%80%A1%C3%98%C2%A8%C3%9B%C5%92%C3%98%C2%AF-%C3%98%C2%B4%C3%98%C2%A7%C3%9B%C5%92%C3%98%C2%A7%C3%99%E2%80%A0-%C3%98%C2%B9%C3%98%C2%B8%C3%9B%C5%92%C3%99%E2%80%A6%C3%9B%C5%92.jpg 2 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%99%C2%85%C3%99%C2%85%C3%98%C2%AA%C3%98%C2%A7%C3%98%C2%B2 16 -
+/blog/cata/4/1/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF%C3%99%C2%87%C3%98%C2%A7%C3%9B%C2%8C-%C3%98%C2%B3%C3%98%C2%A7%C3%98%C2%AE%C3%98%C2%AA%C3%99%C2%85%C3%98%C2%A7%C3%99%C2%86%C3%9B%C2%8C 25 -
+/img/upload/a-(21).jpg 2 -
+/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%9B%C2%8C%C3%98%C2%B1%C3%98%C2%A7%C3%99%C2%86%C3%9B%C2%8C/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%86%C3%9B%C2%8C%C3%99%C2%86%C3%9B%C2%8C 24 -
+/img/upload/a-(14).jpg 1 -
+/en/projects 4 -
+/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AE%C3%98%C2%A7%C3%98%C2%B1%C3%98%C2%AC%C3%9B%C2%8C/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%99%C2%85%C3%98%C2%B1%C3%99%C2%85%C3%98%C2%B1%C3%9B%C2%8C%C3%98%C2%AA 24 -
+/blogshow/7/%C3%98%C2%B3%C3%98%C2%A7%C3%98%C2%A8-%C3%99%C2%88-%C3%98%C2%A7%C3%99%C2%BE%C3%99%C2%88%C3%9A%C2%A9%C3%98%C2%B3%C3%9B%C2%8C-%C3%98%C2%A8%C3%9B%C2%8C-%C3%99%C2%86%C3%98%C2%B8%C3%9B%C2%8C%C3%98%C2%B1 18 -
+/dup-installer/main.installer.php 1 -
+/azimistone.com:443/blogSingle/10/%C3%98%C2%A7%C3%98%C2%B3%C3%98%C2%AA%C3%99%C2%81%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%87-%C3%98%C2%A7%C3%98%C2%B2-%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%99%C2%87%C3%98%C2%A7%C3%9B%C2%8C-%C3%99%C2%85%C3%98%C2%B1%C3%99%C2%85%C 9 -
+/js/respond.min.js 13 https://sucuri.net
+/productsbrandlist/6/productsbrandlist.asp 1 -
+/en/BrandList/17/25/Dehbid-Stone 3 -
+/img/upload/a-(12).jpg 1 -
+/img/upload/a-(30).jpg 1 -
+/services/46/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%A9%C3%98%C2%A7%C3%99%C2%84%C3%98%C2%A7%C3%9A%C2%A9%C3%98%C2%A7%C3%98%C2%AA%C3%98%C2%A7-%C3%98%C2%A7%C3%9B%C2%8C%C3%98%C2%AA%C3%98%C2%A7%C3%99%C2%84%C3%9B%C2%8C%C3%98%C2%A7 26 -
+/googleddaedf53db3c39df.html 30 -
+/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%9B%C2%8C%C3%98%C2%B1%C3%98%C2%A7%C3%99%C2%86%C3%9B%C2%8C 24 -
+//media/wp-includes/wlwmanifest.xml 2 -
+/projectSingle/20/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%87%C3%98%C2%A7%C3%9B%C2%8C-%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%99%C2%84%C3%98%C2%AA%C3%99%C2%87 27 -
+/en/img/uploads/honey.jpg 7 -
+/projectSingle/22/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%87%C3%98%C2%A7%C3%9B%C2%8C-%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%99%C2%85%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%88%C3%98%C2%B1-%C3%98 27 -
+/blogsingle/6/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%DA%86%DB%8C%D8%B3%D8%AA 9 -
+/apple-touch-icon-57x57-precomposed.png 2 -
+/en/ProductShow/28/Royal-Botticino 2 -
+/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AE%C3%98%C2%A7%C3%98%C2%B1%C3%98%C2%AC%C3%9B%C2%8C/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%86%C3%9B%C2%8C%C3%99%C2%86%C3%9B%C2%8C 24 -
+/azimistone.com:443/services/47/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%A7%C3%83%C2%83%C3%8B% 9 -
+/services/42/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%99%C2%84%C3%98%C2%AA%C3%99%C2%87-%C3%98%C2%AA%C3%98%C2%B1%C3%9A%C2%A9%C3%9B%C2%8C%C3%99%C2%87 27 -
+/2index.php 1 -
+/blog/last/1 17 -
+/azimistone.com:443/services/45/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%A7%C3%83%C2%83%C3%A2% 9 -
+/%C3%98%C2%AA%C3%99%C2%85%C3%98%C2%A7%C3%98%C2%B3-%C3%98%C2%A8%C3%98%C2%A7%C3%99%C2%85%C3%98%C2%A7 21 -
+/pass.php 1 -
+/azimistone.com:443/services/17/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%C2%87%C3%98%C2%A8%C3%9B%C2%8C%C3%98%C2%AF-%C3%98%C2%B4%C3%98%C2%A7%C3%9B%C2%8C%C3%98%C2%A7%C3%99%C2%86 8 -
+/services/43/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%A9%C3%98%C2%A7%C3%99%C2%BE%C3%99%C2%88%C3%9A%C2%86%C3%9B%C2%8C%C3%99%C2%86%C3%99%C2%88 26 -
+/en/ProductShow/36/Pietra-Grey 3 -
+/en/img/uploads/DSC02029---Copy.jpg 1 -
+/apple-app-site-association 2 -
+/services/46/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D9%84%D8%A7%DA%A9%D8%A7%D8%AA%D8%A7-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7 22 -
+/img/upload/Em-P5.jpg 2 -
+/img/uploads/SuperCode1(3).jpg 2 -
+/en 8 -
+/img/upload/latesmall.jpg 1 -
+/projectSingle/21/%C3%83%C2%99%C3%82%C2%BE%C3%83%C2%98%C3%82%C2%B1%C3%83%C2%99%C3%82%C2%88%C3%83%C2%9A%C3%82%C2%98%C3%83%C2%99%C3%82%C2%87-%C3%83%C2%99%C3%82%C2%87%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%9B%C3%82%C2%8C-%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%82%C 9 -
+/en/img/uploads/DSC07046.jpg 3 -
+/%C3%99%C2%85%C3%98%C2%AD%C3%98%C2%B5%C3%99%C2%88%C3%99%C2%84%C3%98%C2%A7%C3%98%C2%AA/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%86%C3%9B%C2%8C%C3%99%C2%86%C3%9B%C2%8C-%C3%98%C2%A7%C3%98%C2%B2%C3%99%C2%86%C3%98%C2%A7-1 21 -
+/img/upload/a-(40).jpg 1 -
+/test_error_page_url 24 -
+/apple-touch-icon-precomposed.png 3 -
+/services/17/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%C2%87%C3%98%C2%A8%C3%9B%C2%8C%C3%98%C2%AF-%C3%98%C2%B4%C3%98%C2%A7%C3%9B%C2%8C%C3%98%C2%A7%C3%99%C2%86 28 -
+/en/contact 3 -
+/en/img/uploads/photo-(1)(1).jpg 1 -
+/blog/last/2 2 -
+/services/47/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%A7%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C 17 -
+/img/upload/goniya.jpg 3 -
+/services/43/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D9%BE%D9%88%DA%86%DB%8C%D9%86%D9%88 13 -
+/en/img/uploads/IMG_3895.jpg 1 -
+/azimistone.com:443/services/17/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%AF%C3%83%C2%83%C3%A2% 9 -
+/wp-admin/wp-class.php 1 -
+/web/wp-login.php 10 -
+/wp-contacts.php 1 https://azimistone.com/wp-contacts.php
+/en/ProductShow/37/White-Point 1 -
+/services/43/%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%82%C2%86%C3%83%C2%9A%C3%82%C2%AF-%C3%83%C2%9A%C3%82%C2%A9%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%99%C3%82%C2%BE%C3%83%C2%99%C3%82%C2%88%C3%83%C2%9A%C3%82%C2%86%C3%83%C2%9B%C3%82%C2%8C%C3%83%C2%99%C3%82%C2%86%C 10 -
+/img/upload/DSC_0209.jpg 2 -
+/blogSingle/9 4 -
+/page/3/%C3%98%C2%AF%C3%98%C2%B1%C3%98%C2%A8%C3%98%C2%A7%C3%98%C2%B1%C3%99%C2%87-%C3%99%C2%85%C3%98%C2%A7 26 -
+/en/img/logo.png 1 -
+/img/upload/%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87-%D8%B3%D9%88%D8%B1%D8%AA-%DB%8C%DA%A9.jpg 8 -
+/apple-touch-icon-114x114-precomposed.png 2 -
+/img/upload/slide4.jpg 2 -
+/apple-touch-icon-120x120.png 1 -
+//xmlrpc.php 2 -
+/misc/print.css 1 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%CB%86%C3%9A%CB%9C%C3%99%E2%80%A1 17 -
+/apple-touch-icon-152x152-precomposed.png 3 -
+/img/upload/s11.jpg 2 -
+/img/upload/k4.jpg 2 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%86%C3%99%C2%88%C3%98%C2%B1%C3%9B%C2%8C%C3%98%C2%A7%C3%99%C2%86-1 22 -
+/new 1 -
+//wp2/wp-includes/wlwmanifest.xml 2 -
+/contact 11 -
+/img/upload/dehbidstone1.jpg 4 -
+/brandlist.asp 8 -
+/img/upload/a-(13).jpg 1 -
+/img/upload/DSC_0333.jpg 2 -
+/blogSingle/6/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%AF%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83% 17 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%85%C3%99%C2%87%C3%98%C2%AA%C3%98%C2%A7%C3%98%C2%A8%C3%9B%C2%8C 14 -
+/wp-admin/includes/wp-class.php 1 -
+/img/upload/a-(6).jpg 1 -
+/fm.php 1 -
+/cms 1 -
+/lock360.php 1 -
+/en/ProductShow/35/North-Galexy 5 -
+//cms/wp-includes/wlwmanifest.xml 2 -
+/services/42/%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%82%C2%86%C3%83%C2%9A%C3%82%C2%AF-%C3%83%C2%99%C3%82%C2%84%C3%83%C2%98%C3%82%C2%AA%C3%83%C2%99%C3%82%C2%87-%C3%83%C2%98%C3%82%C2%AA%C3%83%C2%98%C3%82%C2%B1%C3%83%C2%9A%C3%82%C2%A9%C3%83%C2%9B%C3%82%C2%8C% 9 -
+/en/img/apple_icons_114x114.png 2 -
+/en/projects/26 2 -
+/blogSingle/10/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B3%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA-%D8%AF%D8%B1-%D8%AF%DA%A9%D9%88%D8%B1%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C 9 -
+/1.php 1 https://azimistone.com/1.php
+/img/upload/k2.jpg 1 -
+/img/upload/emp1.jpg 2 -
+/%C3%98%C2%B3%C3%99%C2%88%C3%98%C2%B1%C3%98%C2%AA-%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF 24 -
+/%C3%99%C2%85%C3%98%C2%AD%C3%98%C2%B5%C3%99%C2%88%C3%99%C2%84%C3%98%C2%A7%C3%98%C2%AA/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%86%C3%9B%C2%8C%C3%99%C2%86%C3%9B%C2%8C-%C3%98%C2%A7%C3%98%C2%B2%C3%99%C2%86%C3%98%C2%A7-B 21 -
+/en/ProductShow/32/King-Colours 2 -
+//news/wp-includes/wlwmanifest.xml 2 -
+/blogsingle/8 16 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87 24 -
+//test/wp-includes/wlwmanifest.xml 2 -
+/azimistone.com:443/services/44/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%99%C2%85%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%88%C3%98%C2%B1-%C3%98%C2%AA%C3%98%C2%B1%C3%9A%C2%A9%C3%9B%C2%8C%C3%99%C2%87 8 -
+/blogSingle/7 4 -
+/img/upload/lateh-emp-dark(1).jpg 2 -
+/img/upload/aznaSmall(1).jpg 1 -
+/services/45/%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7 15 -
+/eghamat/38 6 -
+/blogshow/9/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%C2%87%C3%98%C2%A8%C3%9B%C2%8C%C3%98%C2%AF 17 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%86%C3%98%C2%B4%C3%98%C2%A7%C3%98%C2%B7 20 -
+/blogsingle/6/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%AF%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83% 17 -
+/en/img/uploads/G3.jpg 1 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%85%C3%99%C2%85%C3%98%C2%AA%C3%98%C2%A7%C3%98%C2%B2 14 -
+/blogsingle/10/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B3%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA-%D8%AF%D8%B1-%D8%AF%DA%A9%D9%88%D8%B1%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C 10 -
+/en/img/uploads/ss6(2).jpg 1 -
+/apple-touch-icon-76x76-precomposed.png 2 -
+/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AE%C3%98%C2%A7%C3%98%C2%B1%C3%98%C2%AC%C3%9B%C2%8C 24 -
+/blogSingle/6/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%DA%86%DB%8C%D8%B3%D8%AA 9 -
+/media/system/js/core.js 1 -
+/blogsingle/7 5 -
+/en/projects/2 2 -
+/en/img/uploads/photo-(2).jpg 1 -
+/1index.php 1 -
+/img/upload/barcode1.jpg 3 https://www.bing.com/
+/productsBrandList/6/productsBrandList.asp 1 -
+/test/wp-login.php 10 -
+/blogSingle/6/%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%82%C2%86%C3%83%C2%9A%C3%82%C2%AF-%C3%83%C2%98%C3%82%C2%AF%C3%83%C2%99%C3%82%C2%87%C3%83%C2%98%C3%82%C2%A8%C3%83%C2%9B%C3%82%C2%8C%C3%83%C2%98%C3%82%C2%AF-%C3%83%C2%9A%C3%82%C2%86%C3%83%C2%9B%C3%82%C2%8C 8 -
+/blog.asp 103 -
+/news/wp-login.php 10 -
+/projectSingle/21/%C3%83%E2%84%A2%C3%82%C2%BE%C3%83%CB%9C%C3%82%C2%B1%C3%83%E2%84%A2%C3%8B%E2%80%A0%C3%83%C5%A1%C3%8B%C5%93%C3%83%E2%84%A2%C3%A2%E2%82%AC%C2%A1-%C3%83%E2%84%A2%C3%A2%E2%82%AC%C2%A1%C3%83%CB%9C%C3%82%C2%A7%C3%83%E2%80%BA%C3%85%E2%80%99-%C3%8 1 -
+/css.php 1 https://azimistone.com/css.php
+/en/img/uploads/spider.jpg 4 -
+/img/upload/k3-3.jpg 3 -
+/en/Productslist 3 -
+/en/ProductShow/30/West-Jasmine 3 -
+/blogsingle/6/%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%82%C2%86%C3%83%C2%9A%C3%82%C2%AF-%C3%83%C2%98%C3%82%C2%AF%C3%83%C2%99%C3%82%C2%87%C3%83%C2%98%C3%82%C2%A8%C3%83%C2%9B%C3%82%C2%8C%C3%83%C2%98%C3%82%C2%AF-%C3%83%C2%9A%C3%82%C2%86%C3%83%C2%9B%C3%82%C2%8C 8 -
+/services/17/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%A2%E2%82%AC%C2%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%AF%C3%83%E2%84%A2%C3%A2%E2%82%AC%C2%A1%C3%83%CB%9C%C3%82%C2%A8%C3%83%E2%80%BA%C3%85%E2%80%99%C3%83%CB%9C%C3%82%C2%AF-%C3%83%CB%9C%C3%82% 1 -
+/img/upload/pic2.jpg 8 http://zigorock.ir/
+/wp/wp-includes/wp-class.php 1 -
+/azimistone.com:443/blogsingle/8 1 -
+/productbrandshow.asp 1 -
+/humans.txt 7 http://azimistone.com/humans.txt
+/news 1 -
+/en/blogshow/8 2 -
+/en/img/favico.ico 2 -
+/img/upload/a-(38).jpg 3 -
+/blogSingle/10/%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%98%C3%82%C2%AA%C3%83%C2%99%C3%82%C2%81%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%98%C3%82%C2%AF%C3%83%C2%99%C3%82%C2%87-%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%98%C3%82%C2%B2-%C3%83%C2%98%C3%82%C2%B 3 -
+/blog/cata/4/1/%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%82%C2%86%C3%83%C2%9A%C3%82%C2%AF%C3%83%C2%99%C3%82%C2%87%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%9B%C3%82%C2%8C-%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%98%C3%82%C2%AE%C3%83%C2%98%C3%82%C2%AA 8 -
+/img/upload/DSC_0337.jpg 3 -
+/ProductBrandShow.asp 464 -
+/productsbrandlist.asp 1 -
+/azimistone.com:443/services/43/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%A9%C3%98%C2%A7%C3%99%C2%BE%C3%99%C2%88%C3%9A%C2%86%C3%9B%C2%8C%C3%99%C2%86%C3%99%C2%88 8 -
+/services/42 1 -
+/en/img/uploads/IMG_3907.jpg 1 -
+/azimistone.com:443/services/43/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%A9%C3%83%C2%83%C3%8B% 8 -
+/wordpress/wp-login.php 10 -
+//sito/wp-includes/wlwmanifest.xml 2 -
+/img/upload 1 -
+/en/projects/1 3 -
+/web 1 -
+/en/ProductShow/34/Dark-Brown-Spider 3 -
+/home 1 -
+/projectSingle/22/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1%DA%A9 10 -
+/en/wp-login.php 10 -
+/new/wp-login.php 9 -
+/admin/login 1 -
+/language/index.html 2 -
+/home/wp-login.php 10 -
+/Install/InstallWizard.aspx 1 -
+/BrandList/26/27/%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87 1 https://search.google.com/
+/img/upload/DSC_0220.jpg 1 -
+/azimistone.com:443/blogSingle/8 1 -
+/blogSingle/8 5 -
+/cms/wp-login.php 9 -
+/img/upload/empradorSmallAlbum.jpg 2 -
+/%C3%99%C2%85%C3%98%C2%AD%C3%98%C2%B5%C3%99%C2%88%C3%99%C2%84%C3%98%C2%A7%C3%98%C2%AA/%C3%98%C2%A7%C3%99%C2%85%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%88%C3%98%C2%B1-%C3%98%C2%AF%C3%98%C2%A7%C3%98%C2%B1%C3%9A%C2%A9 24 -
+/azimistone.com:443/blogsingle/6/%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%B3%C3%83%C2%83%C3%A2%C2%84%C2%A2%C3%83%C2%82%C3%A2%C2%80%C2%A0%C3%83%C2%83%C3%85%C2%A1%C3%83%C2%82%C3%82%C2%AF-%C3%83%C2%83%C3%8B%C2%9C%C3%83%C2%82%C3%82%C2%AF%C3%83%C2%83%C3%A2 9 -
+/wp-includes/wp-class.php 1 -
+/img/upload/a-(20).jpg 2 -
+/google69ca050e83e33e25.html 30 -
+/services/17/%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%82%C2%86%C3%83%C2%9A%C3%82%C2%AF-%C3%83%C2%98%C3%82%C2%AF%C3%83%C2%99%C3%82%C2%87%C3%83%C2%98%C3%82%C2%A8%C3%83%C2%9B%C3%82%C2%8C%C3%83%C2%98%C3%82%C2%AF-%C3%83%C2%98%C3%82%C2%B4%C3%83%C2%98%C3%82%C2%A7% 9 -
+/blogSingle/6/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%C2%87%C3%98%C2%A8%C3%9B%C2%8C%C3%98%C2%AF-%C3%9A%C2%86%C3%9B%C2%8C%C3%98%C2%B3%C3%98%C2%AA 26 -
+/apple-touch-icon-144x144-precomposed.png 3 -
+/blogsingle/9 16 -
+/app-ads.txt 2 -
+/ads.txt 68 -
+/404javascript.js 11 http://azimistone.com/404javascript.js
+/en/img/apple_icons_72x72.png 2 -
+//wp-includes/wlwmanifest.xml 2 -
+/sitemap.xml 110 -
+/projectSingle/21/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%87%C3%98%C2%A7%C3%9B%C2%8C-%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%99%C2%85%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%88%C3%98%C2%B1 26 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%85%C3%98%C2%AA%C3%98%C2%A7%C3%98%C2%B2 22 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%98%C2%A2%C3%98%C2%B1%C3%98%C2%B4 14 -
+/azimistone.com:443/blogsingle/6/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%C2%87%C3%98%C2%A8%C3%9B%C2%8C%C3%98%C2%AF-%C3%9A%C2%86%C3%9B%C2%8C%C3%98%C2%B3%C3%98%C2%AA 9 -
+/img/upload/%DA%A9%D8%A7%D9%BE%D9%88%DA%86%DB%8C%D9%86%D9%88-%D8%B3%D9%88%D8%B1%D8%AA-%DB%8C%DA%A9(1).jpg 8 -
+//2019/wp-includes/wlwmanifest.xml 2 -
+/img/upload/DSC_0150.jpg 2 -
+/BrandList/17/24/%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%A2%C2%80%C2%A0%C3%83%C2%9A%C3%82%C2%AF-%C3%83%C2%98%C3%82%C2%AF%C3%83%C2%99%C3%A2%C2%80%C2%A1%C3%83%C2%98%C3%82%C2%A8%C3%83%C2%9B%C3%85%C2%92%C3%83%C2%98%C3%82%C2%AF 17 -
+/%C3%99%C2%85%C3%98%C2%AD%C3%98%C2%B5%C3%99%C2%88%C3%99%C2%84%C3%98%C2%A7%C3%98%C2%AA/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%99%C2%84%C3%98%C2%AA%C3%99%C2%87-%C3%98%C2%AA%C3%98%C2%B1%C3%9A%C2%A9%C3%9B%C2%8C%C3%99%C2%87 24 -
+/services/17/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86 52 -
+/img/upload/dark-emperador-4-600x400.jpg 2 -
+/en/projects/19 7 -
+/en/img/uploads/IMG_3901.jpg 1 -
+/projectSingle/22/%C3%83%E2%84%A2%C3%82%C2%BE%C3%83%CB%9C%C3%82%C2%B1%C3%83%E2%84%A2%C3%8B%E2%80%A0%C3%83%C5%A1%C3%8B%C5%93%C3%83%E2%84%A2%C3%A2%E2%82%AC%C2%A1-%C3%83%E2%84%A2%C3%A2%E2%82%AC%C2%A1%C3%83%CB%9C%C3%82%C2%A7%C3%83%E2%80%BA%C3%85%E2%80%99-%C3%8 1 -
+/js/index.php 1 -
+/en/projects/14 1 -
+/apple-touch-icon-180x180-precomposed.png 3 -
+/azimistone.com:443/services/45/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%99%C2%85%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%88%C3%98%C2%B1-%C3%98%C2%A7%C3%98%C2%B3%C3%99%C2%BE%C3%98%C2%A7%C3%99%C2%86%C3%9B%C2%8C%C3%98%C2%A7 7 -
+/wp 1 -
+/en/projects/4 2 -
+/site 1 -
+/en/blog/2/Our-Advantage 2 -
+/services/46/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%A9%C3%98%C2%A7%C3%99%C2%84%C3%98%C2%A7%C3%9A%C2%A9%C3%98%C2%A7%C3%98%C2%AA%C3%98%C2%A7-%C3%98%C2%A7%C3%98%C2%B3%C3%99%C2%BE%C3%98%C2%A7%C3%99%C2%86%C3%9B%C2%8C%C3%98%C2%A7 18 -
+/en/img/uploads/ss4(2).jpg 2 -
+/404testpage4525d2fdc 11 http://azimistone.com/404testpage4525d2fdc
+/services/47/%D8%B3%D9%86%DA%AF-%D8%A7%D8%B2%D9%86%D8%A7 36 -
+/blog/wp-login.php 10 -
+/azimistone.com:443/blogSingle/9 1 -
+/projectSingle/20/%C3%83%C2%99%C3%82%C2%BE%C3%83%C2%98%C3%82%C2%B1%C3%83%C2%99%C3%82%C2%88%C3%83%C2%9A%C3%82%C2%98%C3%83%C2%99%C3%82%C2%87-%C3%83%C2%99%C3%82%C2%87%C3%83%C2%98%C3%82%C2%A7%C3%83%C2%9B%C3%82%C2%8C-%C3%83%C2%98%C3%82%C2%B3%C3%83%C2%99%C3%82%C 9 -
+/img/logo-light.png 4 -
+/img/upload/kalaSmall.jpg 3 -
+/blogSingle/10/%C3%98%C2%A7%C3%98%C2%B3%C3%98%C2%AA%C3%99%C2%81%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%87-%C3%98%C2%A7%C3%98%C2%B2-%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%99%C2%87%C3%98%C2%A7%C3%9B%C2%8C-%C3%99%C2%85%C3%98%C2%B1%C3%99%C2%85%C3%98%C2%B1%C3%9B%C2 18 -
+/services/44/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%A2%E2%82%AC%C2%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%A7%C3%83%E2%84%A2%C3%A2%E2%82%AC%C2%A6%C3%83%E2%84%A2%C3%82%C2%BE%C3%83%CB%9C%C3%82%C2%B1%C3%83%CB%9C%C3%82%C2%A7%C3%83%CB%9C%C3%82%C2%A 1 -
+/eghamat/40 6 -
+/blog 7 -
+/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%88%C3%99%C2%84%C3%99%C2%86%C3%98%C2%AC%C3%9A%C2%A9 20 -
+/en/projects/29 2 -
+/img/upload/Azar-8.jpg 3 -
+/projectSingle/21/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1 11 -
+/en/projects/24 1 -
+/en/img/uploads/DSC02331.jpg 1 -
+/site/wp-login.php 10 -
+/blogshow/6/%C3%98%C2%A8%C3%98%C2%B1%C3%98%C2%B4-%C3%98%C2%AF%C3%99%C2%82%C3%9B%C2%8C%C3%99%C2%82-%C3%99%C2%88-%C3%9A%C2%AF%C3%99%C2%88%C3%99%C2%86%C3%9B%C2%8C%C3%98%C2%A7-%C3%99%C2%88-%C3%99%C2%84%C3%98%C2%A8%C3%99%C2%87-%C3%98%C2%AA%C3%9B%C2%8C%C3%98%C2% 18 -
+/productsBrandList.asp 231 -
+/license.php 1 https://azimistone.com/license.php
+//wordpress/wp-includes/wlwmanifest.xml 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 703
+5.144.130.30 831 831 8818620 20210909163006
+52.206.177.233 60 190 319923 20210921235641
+5.74.84.45 55 528 43668650 20210920193600
+83.145.36.70 41 41 1805364 20210924182424
+138.246.253.5 40 40 0 20210928223227
+193.235.141.183 39 39 214120 20210926113037
+185.125.204.124 37 146 9616165 20210908113513
+131.220.6.152 30 30 319140 20210930062859
+39.107.236.213 23 23 124163 20210929194007
+3.92.128.229 21 36 296589 20210922020307
+178.236.103.45 18 110 9380436 20210903161455
+91.240.61.174 18 235 24097847 20210914120630
+79.247.50.87 17 115 11262852 20210907161207
+89.219.80.101 17 119 11964838 20210907153138
+45.132.247.189 16 191 12520348 20210918150520
+93.158.90.82 16 16 170704 20210911082631
+34.207.145.215 14 24 197726 20210930020311
+5.209.120.234 14 216 20816425 20210920120059
+3.87.144.193 14 24 197726 20210912020301
+54.236.117.26 14 24 197163 20210906020319
+5.149.252.158 14 33 4648699 20210919103530
+5.75.3.178 13 175 18581430 20210923145015
+5.119.79.149 12 102 9223259 20210905151209
+149.56.150.63 12 12 636369 20210910183718
+5.62.161.37 12 99 8288675 20210910102539
+5.124.240.192 3 84 7966215 20210905135721
+54.190.157.219 1 1 10655 20210912221519
+35.164.65.241 1 1 10655 20210918213753
+123.183.224.10 0 1 810 
+123.125.109.45 0 1 810 
+123.125.109.97 0 44 46816 
+5.211.61.141 3 84 7960101 20210920152200
+46.167.156.231 11 180 17642949 20210921172027
+175.44.42.55 1 1 10657 20210902142531
+178.239.151.118 3 84 7959825 20210901170407
+54.191.154.23 1 1 10655 20210905214539
+46.167.148.18 4 86 8081045 20210912104120
+188.212.167.19 3 84 1334847 20210901124602
+173.252.127.3 1 15 947122 20210910053932
+31.2.177.64 4 54 2989795 20210910231214
+123.125.109.109 0 2 7802 
+46.18.250.11 4 86 8026470 20210905143502
+5.215.252.8 3 84 7960101 20210920155944
+89.45.62.136 3 84 7960115 20210912200012
+54.245.53.105 1 1 10655 20210910222516
+178.132.4.225 3 62 4591184 20210901001808
+5.214.241.74 1 17 125670 20210916195528
+83.122.43.98 3 84 3523423 20210921093126
+37.98.79.20 4 54 2989795 20210911160242
+164.90.133.1 1 1 106369 20210907225400
+107.23.71.72 2 2 213902 20210912061346
+124.126.78.198 2 3 218490 20210924221521
+62.165.157.6 3 84 7955488 20210924065506
+3.231.151.59 1 1 107339 20210910000721
+2.177.17.188 3 84 7960101 20210906102154
+46.167.152.40 3 84 7960101 20210904095716
+52.40.149.22 1 1 10655 20210914215859
+172.94.125.42 2 2 14429 20210919060722
+190.98.213.180 1 1 10379 20210901115454
+188.215.138.222 3 84 5534678 20210909230401
+164.215.242.68 3 84 5182355 20210920210329
+86.55.196.102 3 84 7960101 20210920110413
+54.185.150.23 1 1 10655 20210916220029
+5.112.151.107 0 2 330852 
+78.47.50.213 1 1 10655 20210907231957
+89.199.110.123 4 91 7723515 20210908235715
+42.193.23.126 2 2 21324 20210925102201
+5.127.235.22 4 86 8026461 20210904095509
+42.192.17.155 1 1 10655 20210903183156
+37.201.226.51 3 84 7960101 20210904131212
+31.57.53.175 3 84 7960101 20210920231852
+5.213.205.127 3 84 7959825 20210901092616
+195.123.239.35 2 2 16605 20210916135814
+45.58.63.162 1 1 3774 20210926163450
+77.81.157.119 10 180 17287802 20210906143706
+75.101.241.211 1 1 107145 20210909022542
+178.239.173.35 7 92 8303734 20210924000429
+34.220.45.233 1 1 10655 20210929205140
+158.69.112.192 3 19 246683 20210919071622
+172.255.48.131 4 85 7970756 20210919105030
+165.227.101.26 1 1 107339 20210907222952
+31.13.127.24 0 10 650592 
+173.252.127.17 0 1 72994 
+5.212.242.212 8 99 8889587 20210907004732
+54.213.107.205 1 1 10655 20210920221841
+2.183.135.110 1 1 10655 20210923111024
+2.178.105.96 4 84 7973903 20210901193758
+49.7.20.107 0 2 10765 
+34.218.248.111 1 1 10655 20210908215535
+109.162.198.37 4 52 2719353 20210921161141
+37.254.132.49 1 82 3633432 20210920205942
+54.236.36.130 1 1 107339 20210920230845
+5.213.112.19 3 84 7966215 20210921204720
+13.94.137.48 4 85 7970784 20210922131000
+49.7.21.83 0 1 810 
+66.220.149.34 0 6 25464 
+54.219.184.237 6 6 31965 20210906142331
+86.55.72.172 3 64 5073414 20210907073612
+62.102.136.85 0 1 99605 
+34.215.36.222 1 1 10655 20210918213532
+123.183.224.160 0 2 8059 
+42.83.147.36 1 1 10655 20210918091616
+64.71.131.244 7 7 745941 20210923061525
+5.116.53.215 4 86 8027041 20210901134249
+44.193.212.175 1 1 107339 20210904120156
+31.13.127.25 0 10 1186785 
+123.125.109.90 0 1 1823 
+54.202.205.12 1 1 10655 20210914214852
+2.147.19.182 4 86 8081063 20210905185348
+54.202.207.235 1 1 10655 20210913213140
+138.201.99.21 0 1 223243 
+173.252.127.16 0 5 273414 
+5.115.145.152 5 90 8643901 20210908201406
+3.238.42.103 1 1 107339 20210916033610
+218.17.86.54 1 2 112121 20210906071328
+46.167.146.229 4 85 7996758 20210921123522
+5.52.212.176 0 1 55214 
+49.7.20.113 0 1 6992 
+54.161.117.237 1 1 10655 20210921103731
+176.9.151.26 1 1 106563 20210909085049
+5.190.13.133 4 86 8026404 20210905121831
+2.187.150.62 0 1 224592 
+37.120.196.70 3 84 7960101 20210920144549
+5.209.244.5 0 2 111075 
+69.194.85.131 1 1 10655 20210909191522
+112.24.104.236 1 1 10655 20210907161845
+5.114.219.219 4 50 2620353 20210910210723
+40.77.167.105 0 2 8422 
+83.121.3.239 1 82 7144525 20210916174116
+123.125.109.59 0 1 810 
+34.219.140.95 1 1 10655 20210921215731
+5.213.7.130 3 84 7960103 20210902161416
+66.249.93.50 0 1 22588 
+79.127.70.48 6 93 8509316 20210920182545
+5.160.72.52 0 1 65734 
+124.126.78.169 1 2 113091 20210921093245
+5.112.183.17 1 1 10655 20210906230430
+123.125.109.35 0 1 810 
+164.215.255.8 6 123 10249905 20210926115156
+2.176.146.30 7 88 8513353 20210912235353
+5.121.84.115 6 56 3000624 20210920135453
+111.7.100.27 1 1 10655 20210920171145
+173.252.127.118 0 7 273441 
+123.125.109.60 0 1 810 
+54.187.120.92 1 1 10655 20210922212326
+52.23.37.1 1 1 0 20210924041247
+213.33.190.79 1 1 10655 20210920223140
+46.100.2.65 4 90 8250598 20210904124852
+86.107.210.133 6 168 15920202 20210921025338
+46.209.8.146 11 318 31617638 20210929143720
+135.125.161.158 8 120 10994827 20210923161852
+34.222.67.118 1 1 10655 20210913213140
+61.135.15.165 1 2 112121 20210920212330
+213.205.198.170 1 82 6578081 20210921121521
+221.2.163.231 1 1 10655 20210908154416
+5.119.42.158 4 86 8081045 20210921094455
+121.5.147.119 2 2 21310 20210925125106
+95.38.209.137 3 84 5329462 20210913115752
+35.165.228.79 1 1 10655 20210909215358
+151.240.138.31 3 84 7960101 20210906230434
+151.233.190.141 5 90 8585445 20210904164815
+123.125.109.122 0 1 1823 
+192.36.70.176 1 1 10655 20210920054519
+66.249.83.21 0 1 22588 
+178.63.250.6 4 52 2719353 20210915154719
+44.193.24.28 1 1 107145 20210919014121
+36.150.60.24 2 2 21310 20210907162644
+123.183.224.152 0 41 16698 
+123.183.224.148 0 1 810 
+5.123.36.105 4 50 2614239 20210909181943
+49.7.20.68 0 1 175 
+3.26.46.196 2 16 153723 20210930055528
+5.211.118.214 1 82 2105875 20210921020321
+123.125.109.96 0 1 4607 
+151.234.196.232 3 84 7960101 20210905125345
+123.125.109.115 0 1 9698 
+45.130.177.67 3 60 4012381 20210911144257
+66.249.93.51 4 8 132972 20210915132031
+198.204.245.85 1 1 10669 20210929230032
+34.221.32.64 2 2 213902 20210913062607
+46.167.156.130 4 85 7996527 20210901222555
+171.13.14.83 3 60 4939268 20210920144036
+5.214.146.241 3 84 7960101 20210908205726
+175.44.42.2 1 1 10655 20210911175851
+207.46.13.120 0 2 31670 
+162.212.12.132 3 84 7955488 20210919105757
+45.129.18.41 1 1 0 20210901202547
+112.197.13.71 3 84 7960101 20210919190050
+52.34.144.165 1 1 10655 20210908215556
+18.237.251.237 1 1 10655 20210925210657
+54.160.24.156 1 1 106563 20210928184202
+3.16.82.138 3 84 7960101 20210922001901
+217.138.199.122 1 10 60808 20210921173454
+5.52.191.23 4 27 726561 20210909145323
+188.229.87.250 1 82 3708515 20210905155347
+31.13.115.22 0 1 155912 
+123.183.224.158 0 2 16690 
+123.183.224.142 0 1 1067 
+5.124.71.229 1 17 125670 20210909120331
+82.102.11.109 1 1 10655 20210915180550
+5.117.10.16 5 88 8140290 20210912115616
+2.191.192.64 3 84 7960101 20210921202644
+34.200.235.69 1 1 106563 20210913180244
+89.199.137.12 4 166 11404769 20210921170558
+5.121.133.181 6 91 8655694 20210920155302
+46.166.142.214 4 109 11069691 20210922093627
+34.214.227.29 1 1 10655 20210905214829
+91.251.28.129 1 82 6331759 20210908145306
+2.177.216.232 3 84 7960101 20210906081607
+5.120.89.146 0 1 59761 
+72.192.170.57 5 115 11644405 20210911171905
+5.216.233.242 3 24 340886 20210922140317
+184.94.240.92 1 1 107339 20210916080549
+78.39.163.5 4 86 8026773 20210905112755
+185.15.21.71 1 1 101762 20210901102701
+31.13.127.14 0 7 1057300 
+2.147.123.84 6 88 8043211 20210920165711
+193.235.141.147 1 1 10655 20210929144307
+41.205.32.133 3 84 7960101 20210908161044
+123.183.224.162 0 1 1067 
+77.74.177.113 1 1 10655 20210928152247
+62.45.60.101 3 84 7960101 20210905165229
+8.210.87.4 1 1 10669 20210914192003
+175.44.42.92 1 1 10655 20210919170801
+5.116.104.139 0 1 122916 
+93.158.90.60 1 1 10655 20210916114711
+204.18.44.247 0 1 66832 
+69.194.116.65 2 2 9048 20210905140933
+185.106.29.32 0 1 51285 
+89.199.165.208 5 168 15499418 20210920231057
+49.7.20.73 0 42 1004514 
+5.211.230.99 0 3 274466 
+45.15.250.88 1 75 1809290 20210921103431
+86.137.179.189 5 88 8148512 20210920192437
+5.52.135.94 0 1 55214 
+31.13.127.15 0 6 148799 
+137.226.113.44 3 3 31726 20210929160659
+51.91.107.55 3 84 7960115 20210910183736
+93.117.178.4 4 85 7996482 20210901114630
+37.254.205.192 0 1 55214 
+49.7.21.79 0 1 1823 
+2.57.122.25 6 12 199488 20210902163636
+66.220.149.25 0 11 1319848 
+66.220.149.18 0 13 1262798 
+123.183.224.14 0 1 9698 
+89.198.237.237 3 84 7960101 20210923130400
+171.13.14.76 3 20 622978 20210920144028
+188.229.49.45 4 92 2644499 20210904122656
+5.127.238.25 4 52 2719353 20210920135101
+83.120.109.41 3 84 7960101 20210904134009
+18.215.188.240 1 1 106369 20210903192902
+5.122.3.62 1 10 57017 20210915122049
+46.224.158.222 2 47 2979486 20210902162112
+173.252.127.2 0 7 762811 
+54.176.205.175 0 1 22588 
+85.133.134.113 3 84 7959825 20210901055448
+2.178.189.95 3 84 7960101 20210915153936
+31.2.192.126 4 54 2248941 20210912135055
+37.255.241.225 3 84 7959825 20210901104035
+123.125.109.88 0 3 2430 
+123.183.224.15 0 1 6992 
+173.252.127.14 1 15 1541606 20210910094052
+5.115.2.81 3 67 5797678 20210916210229
+123.183.224.2 0 2 10765 
+80.210.32.6 3 84 7960101 20210921121221
+2.57.171.18 1 1 10655 20210910225534
+124.126.78.163 1 1 106563 20210918041219
+192.99.18.136 1 6 73209 20210928074400
+66.220.149.39 1 4 33225 20210914123315
+151.246.194.252 3 84 7960101 20210919144929
+5.160.85.154 10 143 11369200 20210919165343
+54.188.182.155 1 1 10655 20210930204453
+123.125.109.53 0 2 7802 
+173.249.22.173 1 8 81639 20210929032715
+31.13.127.7 0 6 80405 
+64.225.21.25 1 1 107533 20210907235544
+34.220.220.129 1 1 10655 20210921215804
+27.115.124.109 0 71 5773868 
+192.36.154.9 1 1 10655 20210914161233
+93.110.172.99 3 60 3882494 20210905151954
+151.234.222.45 3 84 2867070 20210923233412
+5.22.84.73 0 3 258587 
+37.49.230.196 2 2 213126 20210911015646
+3.80.42.62 0 1 22588 
+167.114.156.50 1 1 10655 20210909181820
+44.197.215.159 1 1 107339 20210906062739
+3.239.197.101 1 1 107145 20210904200345
+176.160.88.97 1 1 0 20210921195249
+23.88.96.33 1 1 10655 20210925223937
+5.160.136.162 3 83 5204608 20210908092424
+5.239.99.99 6 169 15942790 20210920233103
+87.98.154.39 4 86 8019079 20210901190920
+2.31.190.237 3 84 7966215 20210920154015
+178.131.30.254 7 214 11979462 20210919101410
+58.53.128.88 3 3 32009 20210919185057
+80.210.142.242 4 145 3744763 20210905213052
+34.200.250.151 1 1 106563 20210916133148
+66.220.149.17 1 12 1758757 20210914123331
+51.158.169.234 3 84 7960115 20210904131730
+35.162.122.31 1 1 10655 20210928203255
+52.90.107.230 0 1 22588 
+5.160.133.152 3 60 4012381 20210909104613
+18.237.201.224 2 2 213902 20210927052717
+2.187.187.225 3 84 7960101 20210910215314
+5.216.6.102 2 32 1405486 20210905103902
+5.213.3.128 3 85 7982689 20210906004518
+123.183.224.150 0 2 8815 
+93.110.128.166 3 63 4954415 20210919224914
+188.211.93.145 4 53 5944244 20210911185209
+188.229.47.217 6 92 8728353 20210910141219
+123.125.109.61 0 1 1067 
+35.167.123.213 1 1 10655 20210919220807
+54.188.82.24 1 1 10655 20210921215805
+83.120.78.40 3 29 838134 20210903175243
+151.240.87.8 0 1 53161 
+93.110.176.198 1 75 1065762 20210921164137
+35.203.251.49 1 1 10669 20210916134817
+86.109.59.159 6 89 8145687 20210914182826
+5.209.92.78 3 84 5149445 20210908095808
+170.83.176.137 1 1 10655 20210916080741
+113.31.114.242 1 1 10655 20210919052022
+31.2.171.124 3 84 7960101 20210910210041
+218.17.86.56 1 2 113091 20210911213534
+34.220.121.6 1 1 10655 20210906220130
+35.167.201.71 1 1 10655 20210929205141
+89.199.183.80 3 84 7960103 20210902223520
+35.163.0.39 1 1 10655 20210929205343
+185.213.155.163 1 1 106563 20210907044623
+5.213.151.214 4 88 8129774 20210916214235
+167.99.58.170 1 1 102239 20210901152751
+151.106.10.36 3 84 7960101 20210906140745
+113.57.56.207 1 1 10655 20210920102341
+31.56.37.53 1 82 1524479 20210905220706
+5.250.47.253 0 1 57914 
+104.236.44.95 1 1 10669 20210906163948
+34.222.20.245 1 1 10655 20210907220246
+123.183.224.22 0 1 810 
+91.133.220.56 0 2 119993 
+86.57.22.57 4 86 8026761 20210920172141
+54.213.245.71 1 1 10655 20210904214926
+5.127.25.218 1 82 1655551 20210909133402
+5.250.8.225 4 85 7970756 20210906232103
+66.249.93.57 1 2 33243 20210924032045
+138.128.118.130 1 1 10655 20210930123219
+35.187.132.70 1 1 10655 20210907173356
+31.13.115.1 2 11 660165 20210914084839
+34.222.167.56 1 1 10655 20210908215535
+35.172.240.10 1 1 107339 20210913063226
+69.171.251.113 0 1 220626 
+109.162.183.218 3 84 3567844 20210906022938
+34.249.76.226 1 1 10655 20210905104234
+77.81.153.140 0 1 90987 
+54.244.82.200 1 1 10655 20210922212519
+51.15.82.98 3 84 6055731 20210905141434
+54.244.164.180 1 1 10655 20210905220509
+31.13.127.120 0 1 97113 
+41.215.75.106 1 1 10655 20210914065505
+83.122.42.162 8 99 10409242 20210921000717
+123.125.109.39 0 1 6992 
+192.99.18.122 6 6 63958 20210923022631
+31.13.127.18 0 8 1083850 
+5.62.172.78 9 40 4780287 20210907084218
+3.219.233.120 1 1 107549 20210902203726
+154.51.131.142 3 3 31965 20210925133811
+86.55.121.211 1 82 2419287 20210920150950
+5.213.203.98 1 82 934690 20210905130742
+54.212.166.183 1 1 10655 20210928203304
+5.120.151.230 3 84 6543585 20210915110215
+54.244.205.45 1 1 10655 20210926203855
+37.148.15.50 4 86 8032778 20210921002814
+40.77.167.33 0 1 14880 
+123.125.109.139 0 2 8059 
+62.197.198.132 3 84 7960101 20210919210311
+89.45.60.132 3 84 7960115 20210912191634
+123.183.224.90 0 1 6992 
+5.209.132.119 3 74 6066639 20210909222151
+93.158.90.164 1 1 10655 20210921091146
+49.7.21.95 0 1 1823 
+54.188.9.176 1 1 10655 20210919220801
+154.49.100.114 1 82 7066770 20210920223828
+5.214.113.165 3 59 3522009 20210918115218
+5.250.22.145 5 87 2290959 20210902155112
+18.144.59.232 1 1 106563 20210906132929
+194.37.101.38 1 1 106563 20210919011018
+5.52.233.254 3 84 7960101 20210920094014
+5.74.61.96 8 79 6621158 20210923191731
+31.2.206.32 4 86 8026709 20210906120928
+81.19.214.5 1 1 106563 20210921233123
+89.219.245.145 1 82 4683636 20210920184310
+49.7.21.70 0 29 30943 
+18.237.44.56 2 2 213902 20210906062546
+123.125.109.54 0 1 6992 
+86.55.98.14 3 84 7960101 20210910141226
+52.12.232.71 2 2 131072 20210920062555
+93.110.19.230 0 2 119993 
+66.249.83.19 1 1 10655 20210919103107
+207.46.13.93 0 1 11431 
+66.249.93.53 2 5 88838 20210919095701
+123.125.109.42 0 1 1067 
+3.235.154.42 1 1 106369 20210928233331
+167.71.184.248 1 1 106563 20210907234042
+5.106.102.140 5 13 1559824 20210920223954
+123.125.109.86 0 3 25537 
+46.167.143.42 4 85 7970756 20210913204609
+3.136.26.184 3 19 147008 20210930172639
+123.183.224.143 0 1 810 
+5.75.63.16 6 94 10182084 20210906170647
+89.198.9.3 6 104 11045986 20210909123348
+5.62.220.69 3 63 4954417 20210902110648
+100.27.37.246 1 1 106579 20210903160620
+77.237.182.28 2 3 78122 20210914085739
+192.15.32.141 5 92 8430553 20210918120619
+123.125.109.38 0 1 4607 
+52.36.162.47 1 1 10655 20210918213449
+83.122.150.81 3 85 7982691 20210902103914
+5.214.108.188 0 1 438650 
+5.52.125.224 4 85 7960115 20210921031143
+199.127.56.236 3 84 7960101 20210916060931
+107.173.72.230 1 1 10655 20210926163444
+54.244.171.232 1 1 10655 20210911221912
+123.183.224.73 0 2 985 
+5.160.115.209 5 91 6083704 20210912153651
+188.229.51.47 0 1 106260 
+188.212.244.238 3 38 3983507 20210921202413
+5.121.42.197 7 99 10168011 20210902212912
+34.220.66.130 1 1 10655 20210924204749
+31.13.127.31 0 1 106260 
+3.238.34.5 1 1 107339 20210905120906
+83.123.109.13 3 84 7960101 20210906021519
+188.211.44.165 12 119 10399882 20210912204159
+89.196.41.215 4 7 289914 20210921031351
+66.249.93.56 1 1 10655 20210903201025
+5.216.44.89 0 2 381106 
+5.236.13.207 3 84 6079747 20210902085816
+34.212.82.144 1 1 10655 20210903223958
+109.201.22.210 4 87 4309112 20210906081748
+89.199.94.144 1 82 1000226 20210922050523
+213.33.190.49 1 1 10655 20210913213237
+66.220.149.13 0 1 22588 
+46.167.152.92 2 107 1028465 20210905142956
+5.120.109.156 0 1 438650 
+93.118.172.100 5 87 8043239 20210920151621
+5.115.53.95 3 64 5073414 20210904174208
+83.121.18.103 3 60 4012383 20210902134538
+49.7.20.65 0 29 278536 
+45.129.18.162 1 1 0 20210917215057
+170.83.176.228 1 1 3774 20210916080747
+78.158.186.132 4 24 3741800 20210913001726
+95.64.5.194 4 5 252612 20210919091358
+123.125.109.100 0 1 810 
+123.125.109.137 0 1 810 
+42.236.10.84 2 83 1250454 20210925093913
+145.239.104.114 1 67 1431293 20210907151147
+54.193.126.23 3 19 246683 20210906142323
+204.18.159.182 1 1 0 20210915122616
+5.74.93.35 12 32 3228166 20210901222339
+78.39.163.228 6 17 3643128 20210905122023
+94.101.242.6 6 92 8413699 20210921183357
+89.42.97.124 1 10 56761 20210901215048
+123.125.109.87 0 1 1067 
+40.66.45.205 1 1 10655 20210913143132
+5.122.255.138 9 98 8619507 20210921143851
+123.183.224.67 0 1 810 
+86.55.184.145 1 1 10410 20210901205822
+5.216.77.70 3 59 1598237 20210909094026
+89.196.5.254 3 84 7960101 20210907113356
+185.104.217.66 1 1 106563 20210912075032
+65.154.226.165 3 84 7960101 20210907210439
+5.218.247.234 4 52 2719353 20210907205547
+2.177.176.27 5 88 4216638 20210912144217
+5.124.169.199 1 17 125670 20210908220308
+5.213.115.18 3 53 1580690 20210909014256
+86.55.234.206 0 1 55214 
+94.139.170.162 4 91 8978661 20210908155534
+164.132.202.72 1 1 106563 20210919114803
+54.190.124.36 2 2 21310 20210926035759
+5.125.94.175 0 1 106260 
+188.210.163.77 3 84 7960101 20210922105138
+5.219.113.221 3 66 5454522 20210902233729
+89.199.235.75 3 64 5073414 20210907174449
+23.228.109.147 2 2 215226 20210923083713
+46.28.73.66 3 84 7960101 20210907123107
+34.242.4.144 1 1 106563 20210910141731
+34.214.81.163 1 1 10655 20210930204459
+86.55.59.167 6 76 3986901 20210920141620
+5.213.50.223 1 82 7411952 20210901190105
+109.125.157.210 3 84 6829277 20210922122144
+5.126.223.226 1 1 0 20210920234142
+188.212.242.161 3 88 8009346 20210926111234
+121.5.226.36 1 1 10379 20210901030133
+86.109.32.45 3 84 7960101 20210907110825
+62.102.139.194 1 28 1233137 20210907201431
+46.209.45.194 0 1 206270 
+5.112.15.185 3 84 7960103 20210902120016
+5.211.102.252 3 84 7960101 20210921023831
+123.125.109.125 0 1 1823 
+109.162.244.163 4 50 2614239 20210911145736
+66.220.149.14 0 10 1113424 
+59.52.101.196 0 7 590214 
+66.220.149.40 1 13 1354608 20210914123330
+123.183.224.169 0 3 11572 
+123.183.224.155 0 1 6992 
+161.35.134.51 1 1 107145 20210907233314
+34.219.43.139 1 1 10655 20210917224009
+123.183.224.141 0 2 24984 
+31.13.115.16 0 10 694850 
+5.124.183.234 0 1 58374 
+138.197.13.204 1 1 107339 20210908001825
+34.217.83.214 1 1 10655 20210909215528
+23.229.113.138 1 1 10657 20210903142235
+89.45.60.200 4 86 8026586 20210917145331
+44.193.79.49 1 1 107145 20210913141103
+91.251.32.173 6 90 8129310 20210914144108
+89.199.55.186 0 1 53161 
+5.116.37.46 3 85 7982703 20210924161522
+107.174.5.17 1 1 3774 20210905065257
+94.101.242.107 1 26 279240 20210920145221
+44.195.81.70 1 1 106369 20210919163858
+124.126.78.189 1 2 113091 20210909202334
+86.105.44.168 11 105 9179492 20210901124146
+59.52.179.64 3 70 5525521 20210918000057
+5.214.0.20 1 82 1360639 20210920003207
+34.221.84.117 1 1 10657 20210902220048
+89.44.194.26 0 1 99605 
+34.219.204.25 1 1 10657 20210902215930
+31.2.202.243 0 1 55214 
+5.116.100.105 1 1 10669 20210905205447
+123.183.224.151 0 1 810 
+5.212.228.78 1 82 4585582 20210909005226
+31.184.176.70 2 30 432868 20210909205617
+5.209.205.230 4 76 3329910 20210911200324
+31.184.176.21 1 1 10655 20210906142016
+54.184.157.69 1 1 10655 20210926203853
+5.120.173.231 0 1 59761 
+178.20.235.164 8 8 84768 20210920200048
+83.122.4.151 3 28 773085 20210904124857
+94.139.165.53 4 85 7996772 20210905103444
+54.246.22.36 1 1 10655 20210908071834
+123.183.224.103 0 42 193494 
+93.110.254.79 1 1 10655 20210913222457
+37.98.77.220 4 16 441828 20210930151520
+46.224.97.75 6 55 2752770 20210905170353
+2.147.167.116 3 84 7966215 20210910232834
+3.80.164.233 1 1 107339 20210915034135
+89.199.7.49 4 110 6395965 20210912150020
+51.81.84.236 1 82 3476952 20210914163417
+123.183.224.154 0 1 9698 
+52.36.201.225 1 1 10655 20210928203327
+5.113.71.112 3 84 6381377 20210920233421
+5.127.49.58 3 84 7966215 20210921022125
+54.71.189.141 1 1 10655 20210930204558
+54.184.15.220 1 1 10655 20210912221518
+213.239.193.124 1 1 10655 20210910082009
+89.235.111.241 2 52 2190168 20210907230915
+34.215.89.6 1 1 10655 20210910222431
+123.183.224.165 0 1 6992 
+5.113.46.210 3 84 7960101 20210920092001
+102.129.153.55 2 2 10655 20210903215145
+111.7.100.26 1 1 10655 20210920171010
+5.200.180.235 3 84 7959825 20210901184148
+173.252.127.8 1 1 10655 20210910053925
+5.202.186.193 0 1 3170729 
+31.13.127.12 0 3 9191 
+91.241.19.243 5 5 53275 20210930112533
+18.206.170.110 7 12 98863 20210920020307
+85.10.207.246 4 4 426252 20210924015200
+66.220.149.12 0 5 55557 
+5.190.30.96 3 84 7960101 20210923112146
+5.216.251.237 3 64 5073414 20210921181425
+3.226.47.161 1 1 106369 20210925181917
+2.147.190.206 4 53 2748055 20210930002852
+3.235.49.83 1 1 106369 20210907034259
+123.183.224.149 0 1 6992 
+51.158.105.24 4 32 1016987 20210920182415
+37.120.196.122 2 64 7722389 20210921142145
+3.231.153.211 1 1 107533 20210905072610
+149.202.163.190 2 2 21310 20210925152053
+31.7.104.70 0 1 99605 
+49.7.20.159 0 1 9698 
+95.179.151.41 1 1 10655 20210927170249
+123.183.224.161 0 1 810 
+34.219.64.140 1 2 33243 20210903224035
+95.64.121.86 2 33 1376845 20210907201207
+89.219.73.212 0 1 53161 
+2.147.163.149 3 71 7995724 20210912212608
+66.249.93.49 1 1 10655 20210909110136
+95.216.15.49 1 1 10655 20210907005956
+76.72.172.166 1 1 106563 20210927193924
+54.200.210.223 1 1 10655 20210921215730
+5.209.190.100 3 84 3385046 20210906114906
+2.180.215.103 4 139 11033910 20210920171141
+31.13.127.28 0 3 5468 
+207.46.13.99 0 1 4573 
+66.249.93.59 1 2 33243 20210923121354
+34.222.169.66 1 1 10655 20210911221740
+45.154.228.15 1 1 106563 20210921180835
+18.206.189.73 7 12 98863 20210928020259
+86.107.219.207 3 55 2871595 20210917173320
+93.158.92.162 1 1 10655 20210927063559
+173.252.127.119 1 38 3075709 20210910094053
+123.245.56.140 1 1 10655 20210909185521
+35.85.62.229 1 1 10655 20210927210908
+89.199.132.7 10 154 11100419 20210925013843
+31.13.127.1 0 8 1049080 
+2.179.179.246 4 86 8026485 20210903193939
+5.214.126.1 4 85 3906650 20210921013303
+192.210.200.148 1 1 10655 20210905065252
+5.22.29.97 8 173 16097624 20210920171511
+45.129.18.85 1 1 0 20210911130344
+188.209.202.145 1 82 4076529 20210920185803
+123.183.224.173 0 2 13984 
+31.13.127.117 0 8 1120533 
+37.156.103.34 12 123 19798666 20210904202748
+163.172.84.234 5 108 8613965 20210905120716
+49.7.20.83 0 1 810 
+37.137.41.58 4 67 3902106 20210908175448
+151.240.85.33 6 93 8586464 20210907145656
+195.201.230.14 1 1 10655 20210928100602
+49.7.20.80 0 3 26807 
+121.4.181.178 1 1 10669 20210930010707
+142.54.177.5 2 2 20774 20210901201131
+192.36.248.249 1 1 10655 20210924111238
+54.214.122.44 1 1 10655 20210927210904
+31.2.239.196 6 115 12884119 20210907211757
+18.236.209.39 1 1 10655 20210923211201
+89.196.225.114 1 70 1912359 20210920185731
+83.122.91.147 1 19 276199 20210908105226
+31.184.176.134 3 84 7960101 20210904195950
+13.51.162.159 1 1 10655 20210915194417
+54.190.236.88 1 2 33243 20210905214641
+66.220.149.9 0 10 1036420 
+2.183.253.197 1 82 3954383 20210904232844
+123.183.224.147 0 1 9698 
+34.200.241.172 1 1 107339 20210906175700
+85.239.215.241 1 82 6256702 20210920150244
+5.123.197.215 0 1 57914 
+3.239.172.98 1 1 107339 20210923045758
+52.10.205.23 1 1 10655 20210920221832
+173.252.127.1 0 7 730773 
+109.230.81.121 0 2 181974 
+123.125.109.99 0 1 6992 
+86.55.149.9 3 84 7966215 20210920203055
+5.123.90.99 5 92 8575809 20210904003535
+165.22.62.146 4 4 425864 20210910223700
+64.179.169.12 4 4 418062 20210922130444
+137.184.80.220 3 91 7461264 20210920161442
+31.13.127.9 0 6 654192 
+107.172.146.236 3 84 7960101 20210913173311
+123.183.224.157 0 34 69857 
+154.21.21.83 2 2 10657 20210903091737
+123.183.224.25 0 1 810 
+52.55.124.45 1 1 10655 20210907072706
+123.183.224.156 0 1 6992 
+34.213.214.72 1 1 10655 20210918213540
+113.203.61.234 4 5 152909 20210923111749
+79.127.68.89 1 17 125670 20210909124557
+123.183.224.1 0 5 4050 
+185.72.82.76 4 84 7921415 20210901204123
+34.215.179.87 1 1 10655 20210922212326
+91.133.212.88 3 84 7960101 20210920190249
+95.154.221.163 9 167 14893960 20210919173135
+89.199.107.100 3 72 6391178 20210901163540
+123.183.224.79 0 1 9698 
+109.123.118.68 1 1 10655 20210929220241
+54.36.112.199 4 85 2811962 20210920193337
+49.7.21.110 0 11 76912 
+185.154.186.225 5 88 6254995 20210908140706
+49.7.21.68 0 1 810 
+186.86.1.65 3 85 7982689 20210907081846
+123.125.109.108 0 1 810 
+123.125.109.131 0 1 810 
+31.13.127.3 3 10 936494 20210918233152
+65.155.30.101 3 89 8613006 20210916143338
+204.18.229.214 10 97 5466100 20210907141018
+3.230.120.199 1 1 107533 20210926051135
+173.211.79.34 1 1 10655 20210907112549
+93.158.90.143 1 1 10655 20210922071205
+151.240.87.228 0 1 53161 
+173.252.127.120 1 2 116915 20210910094045
+5.250.50.18 3 62 4591460 20210908175518
+188.212.244.158 5 99 10783912 20210904160515
+123.125.109.33 0 1 6992 
+121.196.193.162 1 1 10655 20210921033545
+78.85.139.174 1 1 107339 20210910000034
+5.115.54.74 0 1 53161 
+5.120.40.217 4 61 4023036 20210911181511
+123.183.224.21 0 2 7802 
+31.2.132.235 1 82 3104761 20210920214522
+188.229.57.100 6 121 8843720 20210920160139
+5.209.95.188 3 49 2530479 20210910131906
+40.77.167.26 0 1 4573 
+91.251.214.230 4 86 8087159 20210921095102
+31.13.115.19 1 11 701115 20210914084834
+49.12.215.47 0 2 212520 
+35.167.162.222 1 1 10655 20210928203309
+217.138.194.234 8 98 9125523 20210928232113
+62.102.131.112 5 87 8117720 20210929154723
+123.125.109.135 0 1 6992 
+167.99.48.249 2 2 21315 20210902180318
+5.22.19.244 4 86 8019346 20210905092326
+5.209.20.36 3 3 26200 20210912015521
+173.252.127.117 1 8 280511 20210910053933
+5.218.88.146 0 1 89273 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20210901 184 1577 129828621 30
+20210902 181 1024 70485094 24
+20210903 133 366 20121897 15
+20210904 174 1490 126958183 23
+20210905 187 1872 120483618 34
+20210906 174 1382 108077566 28
+20210907 237 1714 133859522 41
+20210908 171 1205 83633938 29
+20210909 122 965 55479022 27
+20210910 75 928 75147689 27
+20210911 43 511 35281062 20
+20210912 80 1109 87010267 21
+20210913 48 390 35236801 20
+20210914 36 434 32475794 21
+20210915 26 354 26217876 14
+20210916 45 583 43962902 20
+20210917 15 231 19053368 7
+20210918 28 420 30938615 15
+20210919 92 1214 100506312 31
+20210920 194 3960 306471374 64
+20210921 191 2553 192581636 50
+20210922 35 614 43553154 14
+20210923 53 643 55556298 17
+20210924 61 315 26705835 12
+20210925 22 248 12553312 10
+20210926 63 270 18747471 11
+20210927 9 9 373740 8
+20210928 39 139 9595767 24
+20210929 40 212 16415396 12
+20210930 27 125 3688803 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 10
+30s-2mn 66
+15mn-30mn 8
+30mn-1h 9
+0s-30s 531
+5mn-15mn 24
+2mn-5mn 34
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 81
+/ 1599 25154802 628 401
+/fonts/IRANSansWeb(FaNum).woff 266 9760286 7 14
+/fonts/fontawesome-webfont.woff 260 21508095 3 146
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/undefined 106 531210 0 38
+/%D8%B3%D9%86%DA%AF-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C 28 165719 0 1
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 26 212591 7 0
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C 26 135843 0 1
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1%DA%A9-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7 26 211783 3 1
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C 24 235365 0 5
+/%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7%D9%85%D8%A7 24 108556 5 13
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C/%D8%B3%D9%86%DA%AF-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C 22 179896 1 1
+/fonts/IRANSansWeb(FaNum).eot 21 772185 1 0
+/%D8%B3%D9%86%DA%AF-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C/%D8%B3%D9%86%DA%AF-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C 19 105292 0 12
+/%D8%B3%D9%88%D8%B1%D8%AA-%D8%B3%D9%86%DA%AF 17 218874 1 5
+/%D8%B3%D9%86%DA%AF-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C 16 94917 0 2
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%A9%D9%84%DA%A9%D8%AA%D9%87-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7 15 90253 7 0
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF 14 98673 0 3
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF 14 118825 0 3
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87 11 86873 1 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2%D9%86%D8%A7 11 120938 1 1
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 10 80599 1 1
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%88%D9%84%D9%86%D8%AC%DA%A9 10 72127 0 2
+/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%A7 9 79657 1 1
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D8%AA%D8%A7%D8%B2 9 67093 0 2
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%86%D9%88%D8%B1%DB%8C%D8%A7%D9%86-1 9 67872 1 2
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1%DA%A9 4 20047 1 0
+// 1 106563 1 1
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D9%85%D8%B4%D9%83%D9%8A-%D9%85%D8%A7%D9%83%D9%88 2 12480 0 1
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-A-10 2 11416 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-A-7 3 17227 0 0
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D8%AE%D8%B1%D9%8A%D8%AF-%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D9%84%D8%A7%D9%8A%D8%AA-%D8%AA%D8%B1%D9%83%D9%8A%D9%87 3 45805 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-A-2 4 23443 0 0
+/fonts/IRANSansWeb(FaNum).woff2 5 146420 0 0
+/css/admin/fonts/Simple-Line-Icons.woff2 1 30064 0 0
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 6 60521 0 0
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D9%82%D9%8A%D9%85%D8%AA-%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1%D9%83-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%D9%8A%D8%A7 4 50188 0 1
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-B-2 2 11763 0 0
+/fonts/fontawesome-webfont.woff2 4 0 1 3
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D8%AE%D8%B1%D9%8A%D8%AF-%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1%D9%83-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%D9%8A%D8%A7 5 56427 0 1
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-B-3 2 11518 0 0
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D9%81%D8%B1%D9%88%D8%B4-%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1%D9%83-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%D9%8A%D8%A7 3 44714 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2%D9%86%D8%A7-B 3 17900 0 0
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87/%D8%AA%D8%A7%D9%84%D8%A7%D8%B1 7 58147 0 1
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D8%AE%D8%B1%D9%8A%D8%AF-%D8%B3%D9%86%DA%AF-%DA%86%D9%8A%D9%86%D9%8A-%D8%A7%D8%B2%D9%86%D8%A7 6 31082 0 2
+/css/admin/fonts/IRANSansWeb(FaNum).woff 1 35161 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-B-4 2 11671 0 0
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D9%81%D8%B1%D9%88%D8%B4-%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87-%D8%AA%D8%B1%D9%83%D9%8A%D9%87 6 61982 0 2
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86 6 91557 0 0
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D9%85%D9%82%D8%A7%D9%84%D9%87-%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2%D9%86%D8%A7 7 64890 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-A-4 2 11608 0 0
+/undefined 1 0 0 1
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D9%82%D9%8A%D9%85%D8%AA-%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D9%84%D8%A7%D9%8A%D8%AA-%D8%AA%D8%B1%D9%83%D9%8A%D9%87 2 40802 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-A-3 2 11922 0 0
+/index.php 2 215226 2 2
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%86%D8%B4%D8%A7%D8%B7 5 48974 0 1
+/css/admin/fonts/fontawesome-webfont.woff2 1 66624 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-A-8 2 11569 0 0
+/css/admin/fonts/MaterialIcons-Regular.woff2 1 44300 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D9%84%D8%A7%DA%A9%D8%A7%D8%AA%D8%A7 8 46542 5 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-A-1 4 23262 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-A-9 4 23201 1 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D9%84%D8%A7%DB%8C%D8%AA-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 7 39793 1 0
+/admin/panel 1 3732 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-A 1 5012 0 0
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%B4%D9%87%D8%B1%DA%A9-%D8%BA%D8%B1%D8%A8 8 63784 0 2
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D9%81%D8%B1%D9%88%D8%B4-%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D9%84%D8%A7%D9%8A%D8%AA-%D8%AA%D8%B1%D9%83%D9%8A%D9%87 2 40575 0 0
+/fonts/fontawesome-webfont.eot 2 144870 0 2
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D9%81%D8%B1%D9%88%D8%B4-%D8%B3%D9%86%DA%AF-%DA%86%D9%8A%D9%86%D9%8A-%D8%A7%D8%B2%D9%86%D8%A7 5 24121 0 2
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-B-1 3 17496 0 1
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-A 2 11457 0 0
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87/%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF 9 67801 0 0
+/login 1 1202 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2%D9%86%D8%A7-%DA%A9%D8%AF-A 9 54612 0 0
+/fonts/fontawesome-webfont.ttf 1 80599 0 1
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D9%84%D8%A7%DB%8C%D8%AA-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%20%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 1 5951 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2%D9%86%D8%A7-1 3 15942 1 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-B 2 11592 1 0
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D9%82%D9%8A%D9%85%D8%AA-%D8%B3%D9%86%DA%AF-%DA%86%D9%8A%D9%86%D9%8A-%D8%A7%D8%B2%D9%86%D8%A7 4 20336 0 2
+/%D9%85%D8%AC%D9%84%D9%87-%D8%B3%D9%86%DA%AF/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF 5 60676 0 1
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-A-6 2 11509 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF-A-5 2 11717 0 0
+END_SIDER

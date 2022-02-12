@@ -1,0 +1,709 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202106 will be lost/reset.
+# Last config file used to build this data file was /home/azimisto/tmp/awstats/awstats.azimistone.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2691                
+POS_VISITOR 27320               
+POS_DAY 31073               
+POS_DOMAIN 3484                
+POS_LOGIN 3867                
+POS_ROBOT 4022                
+POS_WORMS 4806                
+POS_EMAILSENDER 4937                
+POS_EMAILRECEIVER 5080                
+POS_SESSION 31295               
+POS_SIDER 31481               
+POS_FILETYPES 5215                
+POS_DOWNLOADS 5456                
+POS_OS 5504                
+POS_BROWSER 5769                
+POS_SCREENSIZE 6917                
+POS_UNKNOWNREFERER 6991                
+POS_UNKNOWNREFERERBROWSER 7485                
+POS_ORIGIN 7680                
+POS_SEREFERRALS 7820                
+POS_PAGEREFS 7992                
+POS_SEARCHWORDS 8244                
+POS_KEYWORDS 8403                
+POS_MISC 2354                
+POS_ERRORS 8469                
+POS_CLUSTER 3723                
+POS_SIDER_404 8599                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210701000816 50 11424 10913026657023
+FirstTime 20210625193233
+LastTime 20210630225756
+LastUpdate 20210701175458 50 0 49 0 0
+TotalVisits 98                  
+TotalUnique 87                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 99                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 40 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 45265 15 36 213115
+1 4 4 139866 24 132 4804991
+2 16 27 234735 43 61 537269
+3 7 7 69886 10 19 41775
+4 3 3 96327 24 28 67147
+5 5 5 106568 9 16 93267
+6 4 4 134606 15 37 376576
+7 3 12 106955 28 34 100893
+8 1 1 45265 6 17 98631
+9 1 1 5616 9 27 449549
+10 0 0 0 12 38 288443
+11 9 60 3437226 32 45 862997
+12 1 1 5805 15 22 270617
+13 23 264 16338184 28 43 356735
+14 31 205 11102643 47 57 136608
+15 39 61 3598884 51 59 351521
+16 50 249 12063672 87 107 190930
+17 1 1 6704 27 46 211202
+18 18 106 6872211 169 178 190300
+19 21 72 3185903 28 33 78652
+20 37 239 14233515 37 55 159125
+21 7 56 3191663 56 76 187431
+22 19 45 1210711 25 118 3907557
+23 11 111 6413494 48 64 482036
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 136 525 26060931
+ir 127 636 37857647
+ru 25 192 10162139
+de 8 109 6489511
+in 5 31 1129573
+cn 3 34 708997
+by 2 2 90530
+pt 2 2 85828
+it 2 2 11756
+se 1 1 5878
+nl 1 1 42914
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+Googlebot/ 190 1214263 20210630134038 11
+MJ12bot/ 86 242396 20210630162759 21
+bot[\s_+:,\.\;\/\\-] 59 3413750 20210629011250 0
+baidu 54 3196765 20210628223421 0
+Googlebot\-Image/ 53 4157722 20210630134136 0
+YandexBot/ 46 546554 20210629020329 5
+Sogou[\x20]web[\x20]spider/ 15 87624 20210630122902 0
+unknown 10 240 20210630225748 10
+SeznamBot/ 10 240 20210629223005 10
+SemrushBot/ 9 5815 20210630030648 8
+bingbot/ 8 6046 20210629215147 7
+DotBot/ 5 88499 20210630025212 3
+Applebot/ 3 72 20210630025148 3
+AhrefsBot/ 3 72 20210628144238 3
+no_user_agent 2 87538 20210630155104 0
+MojeekBot/ 2 6728 20210626113129 1
+Who\.is[\x20]Bot 1 43162 20210626202008 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+jpg 686 58197794 0 0
+png 93 13277924 0 0
+Unknown 126 999907 0 0
+eot 20 757020 0 0
+html 120 2217653 0 0
+css 235 1772140 0 0
+svg 2 5100 0 0
+woff 46 2783299 0 0
+js 207 2634867 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+linux 28 19
+win8.1 16 5
+win7 148 24
+macosx10 2 2
+macosx 186 53
+win10 744 135
+macosx9 4 4
+win8 17 1
+macosx11 109 7
+linuxandroid 83 6
+Unknown 33 33
+winxp 2 2
+winlong 1 1
+ios_iphone 158 16
+ios_ipad 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 51
+opera77.0.4054.90 56 4
+chrome67.0.3396.99 2 2
+chrome83.0.4086.0 1 1
+chrome91.0.4472.114 63 7
+safari14.0.3 132 12
+chrome49.0.2623.75 1 1
+Unknown 19 19
+chrome88.0.4324.190 1 1
+chrome91.0.4472.120 83 6
+mozilla 13 13
+firefox89.0 454 99
+chrome78.0.3904.87 1 1
+firefox40.0 1 1
+safari11.1.2 2 2
+chrome75.0.3770.100 1 1
+msie11.0 13 2
+chrome83.0.4103.24 2 2
+chrome48.0.2564.109 1 1
+firefox16.0 2 2
+chrome41.0.2226.0 1 1
+netscape5.0 2 2
+chrome61.0.3163.100 54 3
+chrome74.0.3729.169 54 3
+chrome88.0.4240.193 3 3
+chrome83.0.4103.97 16 16
+chrome83.0.4100.3 1 1
+chrome91.0.4472.101 19 3
+chrome41.0.2225.0 1 1
+chrome73.0.3683.86 9 0
+chrome83.0.4103.106 1 1
+safari13.1.2 52 3
+chrome38.0.2125.111 4 4
+chrome83.0.4103.44 1 1
+chrome62.0.3202.89 1 1
+chrome76.0.3809.71 108 6
+chrome52.0.2743.116 2 2
+chrome91.0.4472.124 183 17
+chrome87.0.4280.141 67 37
+firefox61.0 2 2
+firefox76.0 1 1
+firefox84.0 1 1
+chrome63.0.3239.132 1 1
+opera69.0.3686.7 1 1
+chrome79.0.3945.130 2 2
+chrome83.0.4103.61 13 6
+chrome79.0.3945.79 52 3
+firefox82.0 1 1
+chrome83.0.4103.0 1 1
+chrome83.0.4099.2 1 1
+chrome76.0.3809.132 2 2
+safari11.0 30 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Cpanel-HTTP-Client/1.0 20210626193231
+Mozilla/5.0_(compatible;_alexa_site_audit/1.0;__http://www.alexa.com/help/webmasters;_) 20210630125232
+Mozilla/5.0_zgrab/0.x 20210626192036
+Mozilla/5.0_(compatible;_ips-agent) 20210627031107
+Go-http-client/1.1 20210626160616
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20210626193729
+\ 20210630013619
+PleskBot 20210629083841
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+\ 20210630013619
+PleskBot 20210629083841
+Cpanel-HTTP-Client/1.0 20210626193231
+Go-http-client/1.1 20210626160616
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 149 180
+From1 0 0
+From2 7 7
+From3 9 20
+From4 147 1328
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 5 5
+bing 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://www.facebook.com 4 4
+https://spb-tut.ru 2 2
+https://sucuri.net 2 13
+https://l.instagram.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+bing 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+bing 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+405 2 386489
+403 11 25899
+301 49 34643
+404 690 912850
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 219
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF1 1 -
+/en/img/uploads/PietraGrey.jpg 1 -
+/en/img/uploads/DSC02632.jpg 1 -
+/azimistone.com:443/services/45/%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7 2 -
+/projectSingle/22/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%87%C3%98%C2%A7%C3%9B%C2%8C-%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%99%C2%85%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%88%C3%98%C2%B1-%C3%98 2 -
+/blog/last/1 1 -
+/azimistone.com:443/services/45/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%A7%C3%83%E2%84%A2%C3%82%E2%80%A6%C3%83%E2%84%A2%C3%82%C2%BE%C3%83%CB%9C%C3%82%C2%B1%C3%83%CB%9C%C3%82%C2%A7%C3%83%CB%9C%C3% 2 -
+/azimistone.com:443/services/17/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%AF%C3%83%E2%84%A2%C3%82%E2%80%A1%C3%83%CB%9C%C3%82%C2%A8%C3%83%E2%80%BA%C3%82%C5%92%C3%83%CB%9C%C3%82%C2%AF-%C3%83%CB%9C%C3 2 -
+//productsBrandList.asp 2 -
+/en/ProductShow/29/Persian-Light-Emperador 2 http://azimistone.com/en/ProductShow/29/Persian-Light-Emperador
+/DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx 1 -
+/en/projects 2 http://azimistone.com/en/projects
+/website/wp-includes/wlwmanifest.xml 2 -
+/en/projects/22 1 -
+/en/blogshow/7 3 -
+/services/44/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%A7%C3%83%E2%84%A2%C3%82%E2%80%A6%C3%83%E2%84%A2%C3%82%C2%BE%C3%83%CB%9C%C3%82%C2%B1%C3%83%CB%9C%C3%82%C2%A7%C3%83%CB%9C%C3%82%C2%AF%C3%83%E2%8 1 -
+/en/ProductShow/31/Persian-Negro 2 http://azimistone.com/en/ProductShow/31/Persian-Negro
+/admin 1 -
+/services/46/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D9%84%D8%A7%DA%A9%D8%A7%D8%AA%D8%A7-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7 7 -
+/en/projects/4 1 -
+/azimistone.com:443/services/44/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%A7%C3%83%E2%84%A2%C3%82%E2%80%A6%C3%83%E2%84%A2%C3%82%C2%BE%C3%83%CB%9C%C3%82%C2%B1%C3%83%CB%9C%C3%82%C2%A7%C3%83%CB%9C%C3% 2 -
+/images/s-bg.png 8 http://www.azimistone.com/
+/page/3/%C3%98%C2%AF%C3%98%C2%B1%C3%98%C2%A8%C3%98%C2%A7%C3%98%C2%B1%C3%99%C2%87-%C3%99%C2%85%C3%98%C2%A7 2 -
+/page/3/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%A7 5 -
+/blog/cata/4/1/%D8%B3%D9%86%DA%AF%D9%87%D8%A7%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C 3 -
+/azimistone.com:443/services/42/%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 1 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/eghamat/39 2 -
+/services/42/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%99%C2%84%C3%98%C2%AA%C3%99%C2%87-%C3%98%C2%AA%C3%98%C2%B1%C3%9A%C2%A9%C3%9B%C2%8C%C3%99%C2%87 2 -
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 1 -
+/.well-known/acme-challenge/letsencrypt_1624632428_f8e8e5b434e4006e 1 -
+/en/ProductShow/36/Pietra-Grey 1 -
+/azimistone.com:443/blogSingle/6/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%DA%86%DB%8C%D8%B3%D8%AA 1 -
+/blogSingle/7 3 -
+/img/upload/a-(35).jpg 1 -
+/services/46/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%C5%A1%C3%82%C2%A9%C3%83%CB%9C%C3%82%C2%A7%C3%83%E2%84%A2%C3%82%E2%80%9E%C3%83%CB%9C%C3%82%C2%A7%C3%83%C5%A1%C3%82%C2%A9%C3%83%CB%9C%C3%82%C2%A7%C3%83%CB%9C%C 2 -
+/404testpage4525d2fdc 2 https://sucuri.net
+/site/wp-includes/wlwmanifest.xml 2 -
+/test/wp-includes/wlwmanifest.xml 2 -
+/blog/wp-includes/wlwmanifest.xml 2 -
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1%DA%A9 1 -
+/img/upload/kalaSmall.jpg 1 -
+/services/46/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%A9%C3%98%C2%A7%C3%99%C2%84%C3%98%C2%A7%C3%9A%C2%A9%C3%98%C2%A7%C3%98%C2%AA%C3%98%C2%A7-%C3%98%C2%A7%C3%9B%C2%8C%C3%98%C2%AA%C3%98%C2%A7%C3%99%C2%84%C3%9B%C2%8C%C3%98%C2%A7 2 -
+/azimistone.com:443/services/44/%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 1 -
+/img/upload/pic1.jpg 1 -
+/blogshow.asp 11 -
+/img/upload/s11.jpg 2 -
+/%D8%B3%D9%88%D8%B1%D8%AA-%D8%B3%D9%86%DA%AF 1 -
+/services/47/%D8%B3%D9%86%DA%AF-%D8%A7%D8%B2%D9%86%D8%A7 5 -
+/services/17/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86 24 -
+/en/projects/12 2 -
+/en/BrandList/17/24/Dehbid-Stone 1 -
+/en/productsBrandList/10/Code-3 1 -
+/en/ProductShow/28/Royal-Botticino 1 -
+/img/upload/DSC_0220.jpg 1 -
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C 2 -
+/azimistone.com:443/services/46/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D9%84%D8%A7%DA%A9%D8%A7%D8%AA%D8%A7-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7 1 -
+/img/upload/a-(25).jpg 1 -
+/blogSingle/6/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%DA%86%DB%8C%D8%B3%D8%AA 3 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/en/projects/26 1 -
+/BrandList/17/24/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF 1 -
+/azimistone.com:443/blogSingle/6/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%AF%C3%83%E2%84%A2%C3%82%E2%80%A1%C3%83%CB%9C%C3%82%C2%A8%C3%83%E2%80%BA%C3%82%C5%92%C3%83%CB%9C%C3%82%C2%AF-%C3%83%C5%A1%C 2 -
+/projectSingle/22/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1%DA%A9 3 -
+/en/contact 1 -
+/en/projects/3 1 -
+/blog 3 -
+/blogsingle/9 1 -
+/img/upload/a-(3).jpg 1 -
+/%D8%B3%D9%86%DA%AF-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C/%D8%B3%D9%86%DA%AF-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA 1 -
+/azimistone.com:443/services/47/%D8%B3%D9%86%DA%AF-%D8%A7%D8%B2%D9%86%D8%A7 1 -
+/services/17/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%C2%87%C3%98%C2%A8%C3%9B%C2%8C%C3%98%C2%AF-%C3%98%C2%B4%C3%98%C2%A7%C3%9B%C2%8C%C3%98%C2%A7%C3%99%C2%86 2 -
+/wp-content 2 -
+/services/43/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%C5%A1%C3%82%C2%A9%C3%83%CB%9C%C3%82%C2%A7%C3%83%E2%84%A2%C3%82%C2%BE%C3%83%E2%84%A2%C3%82%CB%86%C3%83%C5%A1%C3%82%E2%80%A0%C3%83%E2%80%BA%C3%82%C5%92%C3%83%E 2 -
+/en/img/uploads/DSC02348.jpg 1 -
+/services/47/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%98%C2%B2%C3%99%C2%86%C3%98%C2%A7 2 -
+/projectSingle/21/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1 3 -
+/blogsingle/6/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%C2%87%C3%98%C2%A8%C3%9B%C2%8C%C3%98%C2%AF-%C3%9A%C2%86%C3%9B%C2%8C%C3%98%C2%B3%C3%98%C2%AA 2 -
+/azimistone.com:443/blogsingle/6/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%DA%86%DB%8C%D8%B3%D8%AA 1 -
+/img/upload/DSC_0176.jpg 2 -
+/sitemap.xml 3 -
+/eghamat/40 1 -
+/projects.asp 4 -
+/en/Productslist 3 -
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C 2 -
+/blogSingle/8 3 -
+/contact 9 -
+/img/upload/a-(31).jpg 1 -
+/en/projects/21 2 -
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF2 1 -
+/brandlist.asp 1 -
+/img/upload/a-.jpg 1 -
+/ads.txt 11 -
+/contact.asp 1 http://azimistone.com/contact.asp
+/en/img/uploads/jasmin.jpg 1 -
+/services/43 1 http://azimistone.com/services/43
+/sito/wp-includes/wlwmanifest.xml 2 -
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%A9%D9%84%DA%A9%D8%AA%D9%87-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7 1 -
+/azimistone.com:443/services/43/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D9%BE%D9%88%DA%86%DB%8C%D9%86%D9%88 1 -
+/blog/cata/4/1/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF%C3%99%C2%87%C3%98%C2%A7%C3%9B%C2%8C-%C3%98%C2%B3%C3%98%C2%A7%C3%98%C2%AE%C3%98%C2%AA%C3%99%C2%85%C3%98%C2%A7%C3%99%C2%86%C3%9B%C2%8C 2 -
+/en/projects/28 3 -
+/news/wp-includes/wlwmanifest.xml 2 -
+/BrandList/17/24/%C3%98%C2%B3%C3%99%E2%80%A0%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%E2%80%A1%C3%98%C2%A8%C3%9B%C5%92%C3%98%C2%AF 1 -
+/en/img/uploads/honey.jpg 1 -
+/en/ProductShow/35/North-Galexy 1 -
+/blogshow/6/%D8%A8%D8%B1%D8%B4-%D8%AF%D9%82%DB%8C%D9%82-%D9%88-%DA%AF%D9%88%D9%86%DB%8C%D8%A7-%D9%88-%D9%84%D8%A8%D9%87-%D8%AA%DB%8C%D8%B2 2 -
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87 1 -
+/%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7%D9%85%D8%A7 3 -
+/azimistone.com:443/services/43/%C3%98%C2%B3%C3%99%E2%80%A0%C3%9A%C2%AF-%C3%9A%C2%A9%C3%98%C2%A7%C3%99%C2%BE%C3%99%CB%86%C3%9A%E2%80%A0%C3%9B%C5%92%C3%99%E2%80%A0%C3%99%CB%86 1 -
+/services/43/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%9A%C2%A9%C3%98%C2%A7%C3%99%C2%BE%C3%99%C2%88%C3%9A%C2%86%C3%9B%C2%8C%C3%99%C2%86%C3%99%C2%88 2 -
+/azimistone.com:443/services/42/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%E2%84%A2%C3%82%E2%80%9E%C3%83%CB%9C%C3%82%C2%AA%C3%83%E2%84%A2%C3%82%E2%80%A1-%C3%83%CB%9C%C3%82%C2%AA%C3%83%CB%9C%C3%82%C2%B1%C3%83%C5%A1 1 -
+/2019/wp-includes/wlwmanifest.xml 2 -
+/img/upload/slide4.jpg 1 -
+/app-ads.txt 1 -
+/web/wp-includes/wlwmanifest.xml 2 -
+/projectSingle/21/%C3%99%C2%BE%C3%98%C2%B1%C3%99%CB%86%C3%9A%CB%9C%C3%99%E2%80%A1-%C3%99%E2%80%A1%C3%98%C2%A7%C3%9B%C5%92-%C3%98%C2%B3%C3%99%E2%80%A0%C3%9A%C2%AF-%C3%98%C2%A7%C3%99%E2%80%A6%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%CB%86%C3%98% 1 -
+/BrandList.asp 7 -
+/productsBrandList.asp 26 -
+/wp-login.php 2 -
+/en/blogshow/8 1 -
+/services/44/%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 11 -
+/en/projects/25 1 -
+/services/17/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%AF%C3%83%E2%84%A2%C3%82%E2%80%A1%C3%83%CB%9C%C3%82%C2%A8%C3%83%E2%80%BA%C3%82%C5%92%C3%83%CB%9C%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%B4%C3%83%CB% 2 -
+/azimistone.com:443/services/42/%C3%98%C2%B3%C3%99%E2%80%A0%C3%9A%C2%AF-%C3%99%E2%80%9E%C3%98%C2%AA%C3%99%E2%80%A1-%C3%98%C2%AA%C3%98%C2%B1%C3%9A%C2%A9%C3%9B%C5%92%C3%99%E2%80%A1 1 -
+/en/ProductShow/34/Dark-Brown-Spider 2 -
+/blogsingle/7 2 -
+/ProductBrandShow.asp 51 -
+/azimistone.com:443/blogsingle/6/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%AF%C3%83%E2%84%A2%C3%82%E2%80%A1%C3%83%CB%9C%C3%82%C2%A8%C3%83%E2%80%BA%C3%82%C5%92%C3%83%CB%9C%C3%82%C2%AF-%C3%83%C5%A1%C 2 -
+/blogsingle/6/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%DA%86%DB%8C%D8%B3%D8%AA 3 -
+/blogSingle/6/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%C2%87%C3%98%C2%A8%C3%9B%C2%8C%C3%98%C2%AF-%C3%9A%C2%86%C3%9B%C2%8C%C3%98%C2%B3%C3%98%C2%AA 2 -
+/azimistone.com:443/blogsingle/9 1 -
+/en/projects/14 1 -
+/blogshow/7/%D8%B3%D8%A7%D8%A8-%D9%88-%D8%A7%D9%BE%D9%88%DA%A9%D8%B3%DB%8C-%D8%A8%DB%8C-%D9%86%D8%B8%DB%8C%D8%B1 1 -
+/eghamat/38 2 -
+/blog/last/2 1 -
+/projectSingle/21/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%87%C3%98%C2%A7%C3%9B%C2%8C-%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%99%C2%85%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%88%C3%98%C2%B1 2 -
+/services/45/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%99%C2%85%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%88%C3%98%C2%B1-%C3%98%C2%A7%C3%98%C2%B3%C3%99%C2%BE%C3%98%C2%A7%C3%99%C2%86%C3%9B%C2%8C%C3%98%C2%A7 2 -
+/azimistone.com:443/services/17/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86 1 -
+/faq 2 -
+/img/upload/dehbid-anbar-1.jpg 1 -
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D9%84%D8%A7%DA%A9%D8%A7%D8%AA%D8%A7 1 -
+/en/projects/30 1 -
+/azimistone.com:443/blogSingle/10/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B3%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA-%D8%AF%D8%B1-%D8%AF%DA%A9%D9%88%D8%B1%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%8 1 -
+/services/42/%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 5 -
+/img/upload/darkSpain.jpg 3 -
+/img/upload/DSC_0378.jpg 1 -
+/services/43/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D9%BE%D9%88%DA%86%DB%8C%D9%86%D9%88 8 -
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C/%D8%B3%D9%86%DA%AF-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA 1 -
+/blogSingle/6/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%AF%C3%83%E2%84%A2%C3%82%E2%80%A1%C3%83%CB%9C%C3%82%C2%A8%C3%83%E2%80%BA%C3%82%C5%92%C3%83%CB%9C%C3%82%C2%AF-%C3%83%C5%A1%C3%82%E2%80%A0%C3%83 1 -
+/en/about 9 -
+/en/projects/24 4 -
+/projects 7 -
+/blogSingle/10/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B3%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA-%D8%AF%D8%B1-%D8%AF%DA%A9%D9%88%D8%B1%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C 3 -
+/projectSingle/20/%C3%99%C2%BE%C3%98%C2%B1%C3%99%C2%88%C3%9A%C2%98%C3%99%C2%87-%C3%99%C2%87%C3%98%C2%A7%C3%9B%C2%8C-%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%99%C2%84%C3%98%C2%AA%C3%99%C2%87 2 -
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF%DB%B3 1 -
+/fileupload/server/php/index.php 1 http://www.google.com/
+/en/projects/23 1 -
+/services/45/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%A7%C3%83%E2%84%A2%C3%82%E2%80%A6%C3%83%E2%84%A2%C3%82%C2%BE%C3%83%CB%9C%C3%82%C2%B1%C3%83%CB%9C%C3%82%C2%A7%C3%83%CB%9C%C3%82%C2%AF%C3%83%E2%8 1 -
+/en/projects/15 1 -
+/services/44/%C3%83%C6%92%C3%82%CB%9C%C3%83%E2%80%9A%C3%82%C2%B3%C3%83%C6%92%C3%82%E2%84%A2%C3%83%C2%A2%C3%82%E2%82%AC%C3%82%C2%A0%C3%83%C6%92%C3%82%C5%A1%C3%83%E2%80%9A%C3%82%C2%AF-%C3%83%C6%92%C3%82%CB%9C%C3%83%E2%80%9A%C3%82%C2%A7%C3%83%C6%92%C3%82%E2%8 1 -
+/js/respond.min.js 1 https://sucuri.net
+/azimistone.com:443/services/47/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%A7%C3%83%CB%9C%C3%82%C2%B2%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%CB%9C%C3%82%C2%A7 1 -
+/blogsingle/6/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%AF%C3%83%E2%84%A2%C3%82%E2%80%A1%C3%83%CB%9C%C3%82%C2%A8%C3%83%E2%80%BA%C3%82%C5%92%C3%83%CB%9C%C3%82%C2%AF-%C3%83%C5%A1%C3%82%E2%80%A0%C3%83 1 -
+/en/ProductShow/37/White-Point 2 -
+/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%A7 1 -
+/%D8%B3%D9%86%DA%AF-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C 1 -
+/img/upload/Em-P1.jpg 1 -
+/en/ProductShow/30/West-Jasmine 12 -
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2%D9%86%D8%A7 1 -
+/services/42/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%E2%84%A2%C3%82%E2%80%9E%C3%83%CB%9C%C3%82%C2%AA%C3%83%E2%84%A2%C3%82%E2%80%A1-%C3%83%CB%9C%C3%82%C2%AA%C3%83%CB%9C%C3%82%C2%B1%C3%83%C5%A1%C3%82%C2%A9%C3%83% 2 -
+/shop/wp-includes/wlwmanifest.xml 2 -
+/%D8%B3%D9%86%DA%AF-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C 1 -
+/img/upload 1 -
+/App_Master/m/Telerik.Web.UI.DialogHandler.aspx 1 -
+/projectSingle/1 2 -
+/.well-known/acme-challenge/letsencrypt_1624632428_a695e8d019656835 1 -
+//admin 1 -
+/2020/wp-includes/wlwmanifest.xml 1 -
+/azimistone.com:443/blogsingle/10/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B3%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA-%D8%AF%D8%B1-%D8%AF%DA%A9%D9%88%D8%B1%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%8 1 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/en/ProductShow/32/King-Colours 2 http://azimistone.com/en/ProductShow/32/King-Colours
+/projectSingle/20/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87 5 -
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D9%84%D8%A7%DB%8C%D8%AA-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 1 -
+/azimistone.com:443/services/17/%C3%98%C2%B3%C3%99%E2%80%A0%C3%9A%C2%AF-%C3%98%C2%AF%C3%99%E2%80%A1%C3%98%C2%A8%C3%9B%C5%92%C3%98%C2%AF-%C3%98%C2%B4%C3%98%C2%A7%C3%9B%C5%92%C3%98%C2%A7%C3%99%E2%80%A0 1 -
+/services/44/%C3%98%C2%B3%C3%99%C2%86%C3%9A%C2%AF-%C3%98%C2%A7%C3%99%C2%85%C3%99%C2%BE%C3%98%C2%B1%C3%98%C2%A7%C3%98%C2%AF%C3%99%C2%88%C3%98%C2%B1-%C3%98%C2%AA%C3%98%C2%B1%C3%9A%C2%A9%C3%9B%C2%8C%C3%99%C2%87 2 -
+/services/47/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%CB%9C%C3%82%C2%A7%C3%83%CB%9C%C3%82%C2%B2%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%CB%9C%C3%82%C2%A7 2 -
+/en/projects/1 1 -
+/eghamat/39/ 1 -
+/en/projects/29 1 -
+/img/logo-light.png 1 -
+/azimistone.com:443/services/46/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%C5%A1%C3%82%C2%A9%C3%83%CB%9C%C3%82%C2%A7%C3%83%E2%84%A2%C3%82%E2%80%9E%C3%83%CB%9C%C3%82%C2%A7%C3%83%C5%A1%C3%82%C2%A9%C3%83%CB%9C%C3%82% 4 -
+/services/46/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D9%84%D8%A7%DA%A9%D8%A7%D8%AA%D8%A7-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7 1 -
+/en 1 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/en/img/uploads/king.jpg 1 -
+/images/s-bg-w.png 8 http://www.azimistone.com/
+/wp2/wp-includes/wlwmanifest.xml 2 -
+/blogshow/9/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF 1 -
+/search 1 -
+/xmlrpc.php 3 -
+/img/uploads/MomtazCode3.jpg 1 -
+/services/45/%D8%B3%D9%86%DA%AF-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7 4 -
+/blogSingle/9 2 -
+/azimistone.com:443/services/43/%C3%83%CB%9C%C3%82%C2%B3%C3%83%E2%84%A2%C3%82%E2%80%A0%C3%83%C5%A1%C3%82%C2%AF-%C3%83%C5%A1%C3%82%C2%A9%C3%83%CB%9C%C3%82%C2%A7%C3%83%E2%84%A2%C3%82%C2%BE%C3%83%E2%84%A2%C3%82%CB%86%C3%83%C5%A1%C3%82%E2%80%A0%C3%83%E2%80%BA% 2 -
+/en/img/uploads/DSC07049.jpg 1 -
+/wp1/wp-includes/wlwmanifest.xml 2 -
+/undefined 36 http://azimistone.com/
+/en/ProductShow/33/Honey-Nest 2 http://azimistone.com/en/ProductShow/33/Honey-Nest
+/404javascript.js 2 https://www.google.com/url/
+/img/uploads/SuperCode1(2).jpg 1 -
+/en/projects/2 1 -
+/img/upload/slide1(1).jpg 1 -
+/en/projects/19 2 -
+/media/wp-includes/wlwmanifest.xml 1 -
+/blogsingle/8 4 -
+/fonts/fontawesome-webfont.woff2 105 http://azimistone.com/css/font-awesome.min.css
+/blog.asp 8 -
+/wp-includes/wlwmanifest.xml 2 -
+/blogsingle/10/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B3%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA-%D8%AF%D8%B1-%D8%AF%DA%A9%D9%88%D8%B1%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 99
+95.38.209.137 57 191 11048753 20210627160914
+165.227.12.27 44 176 8710172 20210627162424
+46.224.50.117 26 108 7386246 20210626203751
+34.207.145.215 14 25 183673 20210629020413
+5.74.40.67 11 162 9563742 20210629210544
+2.177.140.118 11 77 6047315 20210626184859
+5.144.130.30 9 9 576 20210626193231
+5.188.48.12 7 7 310230 20210630051726
+135.125.90.60 7 44 3576305 20210630131442
+65.155.30.101 6 108 6359118 20210626195922
+89.199.58.140 5 57 3249600 20210627141454
+205.169.39.118 4 60 3204474 20210630140747
+157.41.106.24 4 55 3217954 20210626112350
+217.79.184.111 4 56 3316587 20210628140635
+159.242.234.50 3 3 128742 20210627185619
+37.137.5.136 3 54 3196759 20210629203037
+72.13.46.6 3 3 12490 20210627031107
+78.46.193.152 3 52 3130010 20210630130038
+151.242.193.189 3 21 384579 20210626201806
+91.251.10.60 3 52 3130010 20210629231746
+45.130.179.250 3 29 1120691 20210628222915
+151.243.43.217 3 54 3180103 20210625234004
+151.80.142.19 2 2 11756 20210628232128
+54.213.243.133 2 2 86076 20210628063015
+89.199.204.156 2 4 19122 20210626133338
+171.13.14.52 0 4 122379 
+52.41.61.184 1 1 5616 20210626215055
+3.218.249.135 1 1 42914 20210626231021
+171.13.14.54 0 1 1043 
+34.220.201.111 1 1 6704 20210625222823
+3.19.56.43 1 1 87 20210626193730
+62.152.55.125 1 17 144276 20210627164359
+18.184.29.122 1 1 87 20210626193729
+18.236.175.68 1 1 5616 20210627222239
+123.183.224.11 0 1 1067 
+34.219.205.161 1 1 5878 20210628220443
+66.133.109.36 1 1 87 20210625193708
+34.211.251.128 1 1 5616 20210626214616
+64.78.149.164 1 1 87 20210626193730
+46.166.142.219 1 1 42914 20210625235512
+49.7.20.76 0 1 1064 
+64.124.51.154 2 2 11232 20210627052244
+18.116.163.56 2 2 13414 20210626055741
+34.221.186.243 1 1 87 20210626193730
+91.76.251.176 1 1 42914 20210628052005
+171.13.14.55 0 2 92253 
+3.237.177.38 1 1 42914 20210628202638
+85.10.207.246 1 1 42914 20210627033206
+3.239.26.111 2 2 89626 20210630013619
+151.242.198.219 1 1 5797 20210629232218
+52.86.185.29 1 1 5805 20210630125232
+59.111.224.73 1 1 6710 20210626140639
+171.13.14.84 1 9 365888 20210630184907
+154.51.131.142 1 1 5616 20210627071451
+103.221.232.43 2 2 8882 20210630183419
+138.128.118.130 1 1 5616 20210628013309
+18.197.97.115 1 1 87 20210625193707
+34.217.127.63 1 1 5796 20210630222614
+45.14.12.193 1 1 42914 20210626060029
+54.184.223.131 1 1 6704 20210625223227
+34.214.206.175 1 1 5878 20210628221048
+54.185.178.28 1 1 5878 20210628223401
+106.38.241.100 0 1 4607 
+192.35.168.128 1 1 6704 20210626171734
+66.249.93.57 1 1 5797 20210630022436
+31.7.119.27 2 2 90530 20210629114139
+34.200.216.143 2 2 86324 20210626074503
+95.79.202.108 1 1 45265 20210629153511
+54.195.34.100 1 1 45265 20210629083841
+67.55.66.180 1 1 6704 20210626160616
+76.72.172.169 1 1 5623 20210627223355
+5.188.62.214 2 2 7001 20210630225756
+34.212.206.137 1 1 5796 20210630221209
+123.183.224.108 0 1 175 
+192.35.168.176 1 1 5616 20210626192036
+185.181.244.202 1 1 42914 20210628203830
+84.241.55.121 0 2 5714 
+37.212.27.51 2 2 90530 20210629040517
+171.13.14.83 0 5 41295 
+91.251.250.172 2 4 112543 20210630155410
+171.13.14.35 1 2 59841 20210630184912
+18.116.86.117 1 1 87 20210625193707
+54.187.36.59 1 1 5797 20210629215508
+45.86.201.124 1 1 44624 20210630155712
+34.239.174.108 1 1 5616 20210628061929
+49.7.21.124 0 4 7292 
+35.162.150.181 1 1 5796 20210630220432
+170.83.178.50 2 2 8866 20210629031315
+49.7.20.88 0 1 810 
+94.77.76.24 1 1 5797 20210630044759
+171.13.14.53 0 1 4573 
+52.39.4.59 1 1 87 20210625193708
+54.189.230.128 1 1 5878 20210628225005
+34.222.164.231 1 1 5797 20210629221126
+54.185.68.69 1 1 5616 20210627090905
+52.39.14.5 1 1 5797 20210629221509
+185.15.21.72 2 2 85828 20210626111811
+192.121.135.6 1 1 5878 20210629164650
+34.219.226.9 1 1 5878 20210628220540
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20210625 16 118 6417068 10
+20210626 73 353 20562229 22
+20210627 135 578 29903066 15
+20210628 23 101 4790302 16
+20210629 32 186 9988267 17
+20210630 33 199 10984772 18
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 1
+0s-30s 91
+30s-2mn 3
+5mn-15mn 1
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 36
+/ 120 2217653 84 63
+/fonts/IRANSansWeb(FaNum).woff 23 856819 1 1
+/fonts/fontawesome-webfont.woff 23 1926480 0 12
+/fonts/IRANSansWeb(FaNum).eot 20 757020 0 1
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C 11 51744 1 1
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2%D9%86%D8%A7 9 86339 0 0
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C 8 46480 0 0
+/%D8%B3%D9%86%DA%AF-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C 7 40939 0 0
+/%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7%D9%85%D8%A7 6 29511 1 3
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%A9%D9%84%DA%A9%D8%AA%D9%87-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7 6 75732 0 2
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1%DA%A9 6 75949 0 0
+/%D8%B3%D9%88%D8%B1%D8%AA-%D8%B3%D9%86%DA%AF 6 48276 0 0
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87 6 26929 0 0
+/%D8%B3%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C/%D8%B3%D9%86%DA%AF-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA 5 34525 0 0
+/%D8%B3%D9%86%DA%AF-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C/%D8%B3%D9%86%DA%AF-%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA 5 34535 0 1
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF%DB%B3 5 67274 0 1
+/%D9%BE%D8%B1%D9%88%DA%98%D9%87/%D9%85%D9%85%D8%AA%D8%A7%D8%B2 5 15681 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF1 4 65753 0 1
+/.well-known/acme-challenge/elL2o_XjEkRb9jQSiu1-FpNlXzjjSxUr0t2E-JHjaZI 4 348 4 4
+/%D8%B3%D9%86%DA%AF-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C/%D8%B3%D9%86%DA%AF-%DA%86%DB%8C%D9%86%DB%8C 4 24084 0 1
+/.well-known/acme-challenge/X-cfjNDl1-WcBRG4lrvpguQoAWfXW34muNhfADsEa3Q 4 348 4 4
+/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%A7 3 23395 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%DA%A9%D8%A7%D9%84%D8%A7%DA%A9%D8%A7%D8%AA%D8%A7 3 61527 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D8%AF%D9%87%D8%A8%DB%8C%D8%AF-%D8%B4%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%AF2 3 61005 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D9%86%DA%AF-%D9%84%D8%AA%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 3 64208 1 0
+/login 1 1205 0 1
+/.well-known/acme-challenge/ZN-IN5CKCJGQ1-OCFR7X1X1ESINABKFH 1 64 1 0
+/.well-known/acme-challenge/SPTECFGFNWBC6OPHKX3ITQJ4KGO1X20Y 1 64 0 1
+/.well-known/acme-challenge/ILWR2NLBFBOHB0JKRHUT90K1YUU5VA73 1 64 1 0
+/.well-known/acme-challenge/JUJQE6-OQYZ3U00Z8FISQ3MFMMTBES4_ 1 64 0 1
+/.well-known/acme-challenge/8JMW_-0TW6IOKR0QAVBW8R1R-O7XCLYM 1 64 0 0
+/.well-known/acme-challenge/NJ5BXB734Y9U7PLC-D4CA39XCWQN_9BD 1 64 0 0
+/.well-known/acme-challenge/-H9624UYTOQIFJRYM__GUSZ-GHVYFTE9 1 64 0 0
+/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D9%84%D8%A7%DB%8C%D8%AA-%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AF%D9%88%D8%B1-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87 3 63544 0 0
+/.well-known/acme-challenge/6TI1WXBCY4X-YXY952G-JOS_3-4VAX-4 1 64 0 0
+/.well-known/acme-challenge/NX9YUZ68DC26VI9MW0BK-23WTYHU337Z 1 64 0 0
+END_SIDER
