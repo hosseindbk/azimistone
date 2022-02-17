@@ -55,14 +55,14 @@
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="">
                         <div class="">
-                            <img src="{{asset('images/sort.png')}}" alt="">
+                            <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset('images/sort.png')}}" alt="سورت سنگ کارخانجات سنگ عظیمی">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="">
                         <div class="" >
-                            <img src="{{asset('images/sort-stone.png')}}" alt="">
+                            <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset('images/sort-stone.png')}}" alt="سورت سنگ کارخانجات سنگ عظیمی">
                         </div>
                     </div>
                 </div>
@@ -71,21 +71,21 @@
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="">
                         <div class="">
-                            <img src="{{asset('images/sort-2.jpg')}}" alt="">
+                            <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset('images/sort-2.jpg')}}" alt="سورت سنگ کارخانجات سنگ عظیمی">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="">
                         <div class="" >
-                            <img src="{{asset('images/sort-3.jpg')}}" alt="">
+                            <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset('images/sort-3.jpg')}}" alt="سورت سنگ کارخانجات سنگ عظیمی">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="">
                         <div class="" >
-                            <img src="{{asset('images/sort-4.jpg')}}" alt="">
+                            <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset('images/sort-4.jpg')}}"  alt="سورت سنگ کارخانجات سنگ عظیمی">
                         </div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                             <div class="product__item">
                                 <a href="{{url('محصولات'.'/'.$product->slug)}}">
                                     <div class="product__item__pic set-bg">
-                                        <img src="{{asset($product->images)}}" height="220" title="{{$product->title}}" alt="{{$product->title}}">
+                                        <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset($product->images)}}"  height="220" title="{{$product->title}}" alt="{{$product->title}}">
                                     </div>
                                 </a>
                                 <div class="product__item__text">

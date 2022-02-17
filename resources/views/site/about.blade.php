@@ -49,10 +49,10 @@
 					<div class="col-lg-6 order-lg-2">
 						<div class="services__page__pic">
 							<div class="services__page__pic__item">
-								<img src="images/azimislice3.jpg" alt="">
+								<img src="images/azimislice3.jpg" loading="lazy"  alt="درباره سنگبری عظیمی">
 							</div>
 							<div class="services__page__pic__item small__item">
-								<img src="images/azimislice4.jpg" alt="">
+								<img src="images/azimislice4.jpg" loading="lazy"  alt="درباره سنگبری عظیمی">
 							</div>
 						</div>
 					</div>
@@ -66,10 +66,10 @@
 				<div class="col-lg-6 order-lg-3">
 					<div class="services__page__pic">
 						<div class="services__page__pic__item small__item">
-							<img src="images/azimislice1.jpg" alt="">
+							<img src="images/azimislice1.jpg" loading="lazy"  alt="درباره سنگبری عظیمی">
 						</div>
 						<div class="services__page__pic__item">
-							<img src="images/azimislice2.jpg" alt="">
+							<img src="images/azimislice2.jpg" loading="lazy"  alt="درباره سنگبری عظیمی">
 						</div>
 					</div>
 				</div>

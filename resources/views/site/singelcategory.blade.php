@@ -39,7 +39,7 @@
                         <div class="product__item">
                             <a href="{{url('محصولات'.'/'.$product->slug)}}">
                                 <div class="product__item__pic">
-                                    <img src="{{asset($product->images)}}" style="max-height: 338px;width: -webkit-fill-available;" title="{{$product->title}}" alt="{{$product->title}}">
+                                    <img src="{{asset($product->images)}}"  loading="lazy"  style="max-height: 338px;width: -webkit-fill-available;" title="{{$product->title}}" alt="{{$product->title}}">
                                 </div>
                             </a>
                             <div class="product__item__text">

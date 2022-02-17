@@ -40,7 +40,7 @@
                     <div class="product__details__pic">
                         <div class="product__details__pic__item">
                             <a class="test-popup-link zoom-in" href="{{asset($blog->images)}}">
-                            <img src="{{asset($blog->images)}}" alt="" class="product__details__big__pic" data-pagespeed-url-hash="3329915024" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <img src="{{asset($blog->images)}}" loading="lazy"  alt="" class="product__details__big__pic" data-pagespeed-url-hash="3329915024" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                             </a>
                         </div>
                     </div>
@@ -79,7 +79,7 @@
                         <div class="col-lg-3">
                             <div class="product__item">
                                 <a href="{{url(Request::segment(1) .'/'. $blog->slug) }}">
-                                    <img src="{{asset($blog->images)}}" style ='width:300px; height:300px;' class="img-fluid">
+                                    <img src="{{asset($blog->images)}}"  loading="lazy" style ='width:300px; height:300px;' class="img-fluid">
                                 </a>
                                 <div class="product__item__text">
                                     <h6><a href="{{url(Request::segment(1) .'/'. $blog->slug) }}">{{$blog->title}}</a></h6>

@@ -41,7 +41,7 @@
             <div class="row text">
                 <div class="col-lg-6 col-md-12 col-sm-12 col-sx-12">
                     <div class="about__pic">
-                        <img src="{{asset('images/about-pic.jpg')}}" title="سنگبری شایان دهبید عظیمی"  alt="سنگبری شایان دهبید عظیمی">
+                        <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset('images/about-pic.jpg')}}" title="سنگبری شایان دهبید عظیمی"  alt="سنگبری شایان دهبید عظیمی">
                         <p class="tolid-anboh">تولید انبوه در ابعاد بزرگ
                             <br>
                             <strong style="font-family:Tahoma"> 165X165 و 125X125</strong>
@@ -85,7 +85,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="services__item">
                         <div class="services__item__pic">
-                            <img src="{{asset('images/stone1.jpg')}}" title="سنگ دهبید شایان عظیمی" alt="سنگ دهبید شایان عظیمی">
+                            <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset('images/stone1.jpg')}}" title="سنگ دهبید شایان عظیمی" alt="سنگ دهبید شایان عظیمی">
                         </div>
                         <div class="services__item__text">
                             <a href="{{url('محصولات/سنگ-دهبید-شایان')}}"><h2>سنگ دهبید شایان</h2></a>
@@ -100,14 +100,14 @@
                             <h3 class="color-6e1212">مرمریت</h3>
                         </div>
                         <div class="services__item__pic">
-                            <img src="{{asset('images/stone2.jpg')}}" title="سنگ امپرادور دارک اسپانیا" alt="سنگ امپرادور دارک اسپانیا">
+                            <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset('images/stone2.jpg')}}" title="سنگ امپرادور دارک اسپانیا" alt="سنگ امپرادور دارک اسپانیا">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="services__item">
                         <div class="services__item__pic">
-                            <img src="{{asset('images/stone3.jpg')}}" title="سنگ چینی ازنا" alt="سنگ چینی ازنا">
+                            <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset('images/stone3.jpg')}}" title="سنگ چینی ازنا" alt="سنگ چینی ازنا">
                         </div>
                         <div class="services__item__text">
                             <a href="{{url('محصولات/سنگ-چینی-ازنا')}}"><h2>سنگ چینی ازنا</h2></a>
@@ -122,7 +122,7 @@
                             <h3 class="color-6e1212">مرمریت</h3>
                         </div>
                         <div class="services__item__pic">
-                            <img src="{{asset('images/stone4.jpg')}}" title="سنگ لته ترکیه" alt="سنگ لته ترکیه">
+                            <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset('images/stone4.jpg')}}" title="سنگ لته ترکیه" alt="سنگ لته ترکیه">
                         </div>
                     </div>
                 </div>
@@ -337,7 +337,7 @@
                         <div class="blog__item">
                             <div class="blog__item__pic">
                                 <a href="{{url('مجله-سنگ'.'/'.$blog->slug)}}">
-                                    <img src="{{asset($blog->images)}}" height="290" title="{{$blog->title}}" alt="{{$blog->title}}">
+                                    <img  src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset($blog->images)}}" height="290" title="{{$blog->title}}" alt="{{$blog->title}}">
                                 </a>
                             </div><div class="blog__item__text">
                                 <h2><a href="{{url('مجله-سنگ'.'/'.$blog->slug)}}">{{$blog->title}}</a></h2>
@@ -368,7 +368,7 @@
                             <div class="product__item">
                                 <a href="{{url('محصولات'.'/'.$product->slug)}}">
                                     <div class="product__item__pic">
-                                        <img src="{{asset($product->images)}}" height="220" title="{{$product->title}}" alt="{{$product->title}}">
+                                        <img  src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset($product->images)}}" height="220" title="{{$product->title}}" alt="{{$product->title}}">
                                     </div>
                                 </a>
                                 <div class="product__item__text">
@@ -391,7 +391,7 @@
             <div class="row">
                 <div class="col-lg-6 p-0">
                     <div>
-                        <img src="{{asset('images/callto-text-bg.jpg')}}" style="width: 100%;height: 500px;" title="کارخانه سنگبری پارسیان دهبید عظیمی" alt="کارخانه سنگبری پارسیان دهبید عظیمی">
+                        <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset('images/callto-text-bg.jpg')}}" style="width: 100%;height: 500px;" title="کارخانه سنگبری پارسیان دهبید عظیمی" alt="کارخانه سنگبری پارسیان دهبید عظیمی">
                         <div  style="position:absolute;line-height: 10px;margin: -256px 10% 0px 35%;">
                             <h2 style="color: #fff">کارخانه سنگ عظیمی</h2>
                         </div>
@@ -399,7 +399,7 @@
                 </div>
                 <div class="col-lg-6 p-0">
                     <div>
-                        <img src="{{asset('images/callto-quote-bg.jpg')}}" style="width: 100%;height: 500px;" title="کارخانه سنگبری پارسیان دهبید عظیمی" alt="کارخانه سنگبری پارسیان دهبید عظیمی">
+                        <img  src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset('images/callto-quote-bg.jpg')}}" style="width: 100%;height: 500px;" title="کارخانه سنگبری پارسیان دهبید عظیمی" alt="کارخانه سنگبری پارسیان دهبید عظیمی">
                         <div  style="position:absolute;line-height: 10px;margin: -256px 10% 0px 35%;">
                             <h2 style="color: #fff">انبار سنگ کارخانه سنگ عظیمی</h2>
                         </div>

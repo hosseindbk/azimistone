@@ -39,10 +39,10 @@
                         <div class="blog__item">
                             <div class="blog__item__pic">
                                 <a href="{{Request::segment(1) .'/'. $blog->slug }}">
-                                    <img src="{{asset($blog->images)}}" height="290" title="{{$blog->title}}" alt="{{$blog->title}}">
+                                    <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset($blog->images)}}" height="290" title="{{$blog->title}}" alt="{{$blog->title}}">
                                 </a>
                             </div><div class="blog__item__text">
-                                <h2><a href="{{Request::segment(1) .'/'. $blog->slug }}">{{$blog->title}}</a></h2>
+                                <h2><a href="{{Request::segment(1) .'/'. $blog->slug }}"></a></h2>
                                 <p class="direction-r">{{ Str::limit($blog->description, 200) }}</p>
                                 <ul>
                                     <li>{{$blog->date}}</li>

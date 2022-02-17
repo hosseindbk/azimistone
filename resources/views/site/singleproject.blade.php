@@ -40,7 +40,7 @@
                     <div class="product__details__pic">
                         <div class="product__details__pic__item">
                             <a class="test-popup-link zoom-in" href="{{asset($project->images)}}">
-                            <img src="{{asset($project->images)}}" alt="" class="product__details__big__pic" data-pagespeed-url-hash="3329915024" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                            <img src="{{'images/loadimage.png'}}" data-src="{{asset($project->images)}}"   alt="" class="product__details__big__pic lazy" data-pagespeed-url-hash="3329915024" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
                             </a>
                         </div>
                     </div>
@@ -75,32 +75,32 @@
                     @if($project->images2 != null)
                         <div class="col-lg-3">
                             <a class="test-popup-link zoom-in" href="{{asset($project->images2)}}">
-                                <img src="{{asset($project->images2)}}" style="margin-bottom: 30px;" alt="">
+                                <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset($project->images2)}}" style="margin-bottom: 30px;" alt="پروژه های سنگبری عظیمی">
                             </a>
                         </div>
                     @endif
                     @if($project->images3 != null)
                         <div class="col-lg-3">
                             <a class="test-popup-link zoom-in" href="{{asset($project->images3)}}">
-                                <img src="{{asset($project->images3)}}" style="margin-bottom: 30px;" alt="">
+                                <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset($project->images3)}}" style="margin-bottom: 30px;" alt="پروژه های سنگبری عظیمی">
                             </a>
                         </div>@endif
                     @if($project->images4 != null)
                         <div class="col-lg-3">
                             <a class="test-popup-link zoom-in" href="{{asset($project->images4)}}">
-                                <img src="{{asset($project->images4)}}" style="margin-bottom: 30px;" alt="">
+                                <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset($project->images4)}}"  style="margin-bottom: 30px;" alt="پروژه های سنگبری عظیمی">
                             </a>
                         </div>@endif
                     @if($project->images5 != null)
                         <div class="col-lg-3">
                             <a class="test-popup-link zoom-in" href="{{asset($project->images5)}}">
-                                <img src="{{asset($project->images5)}}" style="margin-bottom: 30px;" alt="">
+                                <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset($project->images5)}}" style="margin-bottom: 30px;" alt="پروژه های سنگبری عظیمی">
                             </a>
                         </div>@endif
                     @if($project->images6 != null)
                         <div class="col-lg-3">
                             <a class="test-popup-link zoom-in" href="{{asset($project->images6)}}">
-                                <img src="{{asset($project->images6)}}" style="margin-bottom: 30px;" alt="">
+                                <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset($project->images6)}}"  style="margin-bottom: 30px;" alt="پروژه های سنگبری عظیمی">
                             </a>
                         </div>
                     @endif
@@ -123,7 +123,7 @@
                         <div class="col-lg-3">
                             <div class="product__item">
                                 <a href="{{url(Request::segment(1) .'/'. $project->slug) }}">
-                                    <img src="{{asset($project->images)}}" style ='width:300px; height:300px;' class="img-fluid">
+                                    <img src="{{'images/loadimage.png'}}" data-src="{{asset($project->images)}}" style ='width:300px; height:300px;' class="img-fluid lazy">
                                 </a>
                                 <div class="product__item__text">
                                     <h6><a href="{{url(Request::segment(1) .'/'. $project->slug) }}">{{$project->title}}</a></h6>

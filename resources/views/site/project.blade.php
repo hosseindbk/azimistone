@@ -40,7 +40,7 @@
 							<div class="blog__item__pic">
 
                                 <a href="{{Request::segment(1) .'/'. $project->slug }}">
-								<img src="{{asset($project->images)}}" style ='width:300px; height:300px;' class="img-fluid">
+								<img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset($project->images)}}" style ='width:300px; height:300px;' class="img-fluid">
                                 </a>
 							</div>
 							<div class="blog__item__text">
