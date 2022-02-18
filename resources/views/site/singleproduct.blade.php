@@ -67,32 +67,32 @@
                     @if($product->images2 != null)
                     <div class="col-lg-3">
                         <a class="test-popup-link zoom-in" href="{{asset($product->images2)}}" >
-                        <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset($product->images2)}}" alt="{{$product->title}}" style="margin-bottom: 30px;">
+                        <img src="{{asset('images/loadimage.png')}}" class="lazy" data-src="{{asset($product->images2)}}" alt="{{$product->title}}" style="margin-bottom: 30px;">
                         </a>
                     </div>
                     @endif
                         @if($product->images3 != null)
                     <div class="col-lg-3">
                         <a class="test-popup-link zoom-in" href="{{asset($product->images3)}}">
-                        <img src="{{'images/loadimage.png'}}" class="lazy" data-src="{{asset($product->images3)}}" alt="{{$product->title}}" style="margin-bottom: 30px;">
+                        <img src="{{asset('images/loadimage.png')}}" class="lazy" data-src="{{asset($product->images3)}}" alt="{{$product->title}}" style="margin-bottom: 30px;">
                         </a>
                     </div>@endif
                             @if($product->images4 != null)
                     <div class="col-lg-3">
                         <a class="test-popup-link zoom-in" href="{{asset($product->images4)}}">
-                        <img src="{{'images/loadimage.png'}}"  class="lazy" data-src="{{asset($product->images4)}}" alt="{{$product->title}}" style="margin-bottom: 30px;">
+                        <img src="{{asset('images/loadimage.png')}}"  class="lazy" data-src="{{asset($product->images4)}}" alt="{{$product->title}}" style="margin-bottom: 30px;">
                         </a>
                     </div>@endif
                                 @if($product->images5 != null)
                     <div class="col-lg-3">
                         <a class="test-popup-link zoom-in" href="{{asset($product->images5)}}">
-                        <img src="{{'images/loadimage.png'}}"  class="lazy" data-src="{{asset($product->images5)}}" alt="{{$product->title}}" style="margin-bottom: 30px;">
+                        <img src="{{asset('images/loadimage.png')}}"  class="lazy" data-src="{{asset($product->images5)}}" alt="{{$product->title}}" style="margin-bottom: 30px;">
                         </a>
                     </div>@endif
                                     @if($product->images6 != null)
                     <div class="col-lg-3">
                         <a class="test-popup-link zoom-in" href="{{asset($product->images6)}}">
-                        <img src="{{'images/loadimage.png'}}"  class="lazy" data-src="{{asset($product->images6)}}" alt="{{$product->title}}" style="margin-bottom: 30px;">
+                        <img src="{{asset('images/loadimage.png')}}"  class="lazy" data-src="{{asset($product->images6)}}" alt="{{$product->title}}" style="margin-bottom: 30px;">
                         </a>
                     </div>
                         @endif
@@ -116,7 +116,7 @@
                         <div class="product__item">
                                 <a href="{{url(Request::segment(1) .'/'. $product->slug) }}">
                                     <div class="product__item__pic set-bg">
-                                        <img src="{{'images/loadimage.png'}}"  class="lazy" data-src="{{asset($product->images)}}" height="220" title="{{$product->title}}" alt="{{$product->title}}">
+                                        <img src="{{asset('images/loadimage.png')}}"  class="lazy" data-src="{{asset($product->images)}}" height="220" title="{{$product->title}}" alt="{{$product->title}}">
                                     </div>
                                 </a>
                                 <div class="product__item__text">

@@ -31,18 +31,10 @@
             <link rel="stylesheet" href="{{asset('css/style.css')}}" type="text/css">
             <!--[if lt IE 9]>
             <script src="{{asset('js/respond.min.js')}}"></script>
-            <script src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
 
             <![endif]-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P9Q9Z0SG8V"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-P9Q9Z0SG8V');
-</script>
         </head>
     <body>
     <div class="offcanvas-menu-overlay"></div>
@@ -192,6 +184,14 @@
     <script src="{{asset('js/jquery.slicknav.js')}}"></script>
     <script src="{{asset('js/owl.carousel.min.js')}}"></script>
     <script src="{{asset('js/main.js')}}"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-P9Q9Z0SG8V"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-P9Q9Z0SG8V');
+    </script>
 <script type="application/ld+json">
                 { "@context" : "http://schema.org",
                     "@type" : "shopping",
